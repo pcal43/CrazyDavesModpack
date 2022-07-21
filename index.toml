@@ -86,8 +86,9 @@ hash = "7bfeba729248436bdd7ca5290b85d8020e8d483d318d8f58938462ab46263fa1"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-fabric.toml"
-hash = "7a7e1ed91bed3be5c1be1aecb60f94939e934e9a12a70b10b378cc0872e9f981"
+file = "mods/spice-of-fabric.pw.toml"
+hash = "60bbbab5a4325ded6bbe8e2229c5e0a12727b13c4d2c14b7aa4ccf8329f64660"
+metafile = true
 
 [[files]]
 file = "mods/textile_backup.pw.toml"
