@@ -46,6 +46,11 @@ hash = "922a1ed8d804fd6b2f6998d321a94f280f43d58de38ba80c1bf1c474f7e09253"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
+metafile = true
+
+[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "9f4c42266f8231c6ed4e8b61363d5b9e84de8e86a21ab44272e31b1baaa68d1d"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "ea59340e930874c307b1dd1d17dd068dc5598e1f1a01055de1f5cb433780a1ee"
 metafile = true
 
 [[files]]
