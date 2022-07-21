@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
 file = ".gitignore~"
 hash = "73cafed4c2cba0743097670a0615e4958fd6ddae0ea12b077bffcc3581e9afd2"
 
@@ -50,6 +54,6 @@ hash = "d40cd4245b3fa940e2e4fe02299e7a255d31ca84bf9c7be5b238974f1897b6c5"
 metafile = true
 
 [[files]]
-file = "mods/unicorn-resource-pack.pw.toml"
-hash = "cc4ccd21b0baca37d19198e4e1186f1b9ecb61a279e885b8d1dac6dbe7937923"
+file = "resourcepacks/unicorn-resource-pack.pw.toml"
+hash = "0c93bbf69867cc1cacdd6a9fbbc3e7812ccabc16a707aac8ac2994a6f4bf665b"
 metafile = true
