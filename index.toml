@@ -47,12 +47,8 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-title-changer.pw.toml"
-hash = "39d52f808c143640efa3c88ca3e1cd23307f93a5d4d96165914860ddf64bd02e"
+hash = "4606d9464ed568df9de180d02883b4f37afd34a2b4f9daa8effb5b07bd50bf61"
 metafile = true
-
-[[files]]
-file = "mods/fabric-title-changer.pw.toml~"
-hash = "60bbbab5a4325ded6bbe8e2229c5e0a12727b13c4d2c14b7aa4ccf8329f64660"
 
 [[files]]
 file = "mods/fpsdisplay.pw.toml"
