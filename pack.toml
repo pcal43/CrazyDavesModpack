@@ -1,0 +1,13 @@
+name = "Modpack"
+author = "pcal"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6850abe70245e8236056bbc71304b359778127acbab52e2b64735c88382b321c"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19"

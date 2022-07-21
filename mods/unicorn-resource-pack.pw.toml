@@ -1,0 +1,12 @@
+name = "unicorn-resource-pack"
+filename = "SnachmeesFixedHorses.zip"
+side = "client"
+
+[download]
+url = "https://pcal43.github.io/unicorn-resource-pack/SnachmeesFixedHorses.zip"
+
+
+[option]
+optional = true
+default = true
+description = "Fix the horses"

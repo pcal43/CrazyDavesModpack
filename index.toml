@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/amazing-chest.pw.toml"
+hash = "7c44e81b4d0aee0821cbf0b150bb74833406b870874a036c82e5bb360f44df33"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
+hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "9016821ee80045ed29e8fba7259faec44b45b3a42e7e502cb25309da5259d677"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "d476772028d7d681aadd6a06fb8484cbf8476389267f6fd53293a17af3460bce"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "9eaeb257cd8970aa2469222f31ceb984954092a6dcf6e7be28d7330e2ea54b10"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "9f4c42266f8231c6ed4e8b61363d5b9e84de8e86a21ab44272e31b1baaa68d1d"
+metafile = true
+
+[[files]]
+file = "mods/mobfilter.pw.toml"
+hash = "784c6d5df73a8d5d93ae624c681068127df4fadbe05aeeb30486cdfe874a838d"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
+metafile = true
+
+[[files]]
+file = "mods/quicksort.pw.toml"
+hash = "d40cd4245b3fa940e2e4fe02299e7a255d31ca84bf9c7be5b238974f1897b6c5"
+metafile = true
