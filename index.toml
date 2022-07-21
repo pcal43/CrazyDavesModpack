@@ -16,6 +16,11 @@ hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "53fa3438ef9e1e81193f46c36cffa7c410a933de0b6793224e99bad67cbab2e3"
+metafile = true
+
+[[files]]
 file = "mods/croptopia.pw.toml"
 hash = "9016821ee80045ed29e8fba7259faec44b45b3a42e7e502cb25309da5259d677"
 metafile = true
@@ -116,8 +121,18 @@ hash = "7bfeba729248436bdd7ca5290b85d8020e8d483d318d8f58938462ab46263fa1"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-fabric.pw.toml"
 hash = "60bbbab5a4325ded6bbe8e2229c5e0a12727b13c4d2c14b7aa4ccf8329f64660"
+metafile = true
+
+[[files]]
+file = "mods/stoneholm.pw.toml"
+hash = "a99056e0e39b3e1ad57294363b5bdf26f54bb92fe6a9b10c17583e359401ec5a"
 metafile = true
 
 [[files]]
