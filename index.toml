@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".DS_Store"
-hash = "44630ae1ff5b9dd22054907990e566f8b36ed6cd430d6ea67e6e9c49bc6162de"
-
-[[files]]
-file = ".gitignore~"
-hash = "73cafed4c2cba0743097670a0615e4958fd6ddae0ea12b077bffcc3581e9afd2"
-
-[[files]]
 file = "mods/amazing-chest.pw.toml"
 hash = "7c44e81b4d0aee0821cbf0b150bb74833406b870874a036c82e5bb360f44df33"
 metafile = true
@@ -54,6 +46,10 @@ hash = "d40cd4245b3fa940e2e4fe02299e7a255d31ca84bf9c7be5b238974f1897b6c5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/unicorn-resource-pack.pw.toml"
-hash = "576eb323cadeb5ddee321932e836aa5bca8baf1f155d392e090f3bb8df551b24"
+file = "mods/spice-of-fabric.toml"
+hash = "7a7e1ed91bed3be5c1be1aecb60f94939e934e9a12a70b10b378cc0872e9f981"
+
+[[files]]
+file = "resourcepacks/better-horses.pw.toml"
+hash = "e34c867fd37e8ab1c4bae94c90cc4565b56ef896e17b82179f3321e0cf20ee87"
 metafile = true
