@@ -31,10 +31,6 @@ hash = "739b5cd1e3c8eb87babcc774648efd02eff49862f4e46b80c78318946d163e61"
 metafile = true
 
 [[files]]
-file = "mods/easy-auto-crafting.pw.toml~"
-hash = "60bbbab5a4325ded6bbe8e2229c5e0a12727b13c4d2c14b7aa4ccf8329f64660"
-
-[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "d476772028d7d681aadd6a06fb8484cbf8476389267f6fd53293a17af3460bce"
 metafile = true
@@ -48,6 +44,15 @@ metafile = true
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
+
+[[files]]
+file = "mods/fabric-title-changer.pw.toml"
+hash = "39d52f808c143640efa3c88ca3e1cd23307f93a5d4d96165914860ddf64bd02e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-title-changer.pw.toml~"
+hash = "60bbbab5a4325ded6bbe8e2229c5e0a12727b13c4d2c14b7aa4ccf8329f64660"
 
 [[files]]
 file = "mods/fpsdisplay.pw.toml"
