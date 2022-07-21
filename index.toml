@@ -54,6 +54,11 @@ hash = "d40cd4245b3fa940e2e4fe02299e7a255d31ca84bf9c7be5b238974f1897b6c5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "9c89b77beca83413ef75618289070b98398776e8b0a73125951f59fe6f5593a1"
+metafile = true
+
+[[files]]
 file = "resourcepacks/unicorn-resource-pack.pw.toml"
 hash = "0c93bbf69867cc1cacdd6a9fbbc3e7812ccabc16a707aac8ac2994a6f4bf665b"
 metafile = true

@@ -8,6 +8,6 @@ hash-format = "sha1"
 hash = "f76152aac4e31e8d5f524a8ec4b9bc14d5caad53"
 
 [option]
-optional = true
+optional = false
 default = true
 description = "Fix the horses"
