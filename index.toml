@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitignore~"
+hash = "73cafed4c2cba0743097670a0615e4958fd6ddae0ea12b077bffcc3581e9afd2"
+
+[[files]]
 file = "mods/amazing-chest.pw.toml"
 hash = "7c44e81b4d0aee0821cbf0b150bb74833406b870874a036c82e5bb360f44df33"
 metafile = true
@@ -26,6 +30,10 @@ hash = "9eaeb257cd8970aa2469222f31ceb984954092a6dcf6e7be28d7330e2ea54b10"
 metafile = true
 
 [[files]]
+file = "mods/fixed-horses.pw.toml~"
+hash = "9016821ee80045ed29e8fba7259faec44b45b3a42e7e502cb25309da5259d677"
+
+[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "9f4c42266f8231c6ed4e8b61363d5b9e84de8e86a21ab44272e31b1baaa68d1d"
 metafile = true
@@ -44,3 +52,12 @@ metafile = true
 file = "mods/quicksort.pw.toml"
 hash = "d40cd4245b3fa940e2e4fe02299e7a255d31ca84bf9c7be5b238974f1897b6c5"
 metafile = true
+
+[[files]]
+file = "mods/unicorn-resource-pack.pw.toml"
+hash = "970eb59061681523c06aebb955184301574bbb9f53a823369bbc3ca03417ac62"
+metafile = true
+
+[[files]]
+file = "mods/unicorn-resource-pack.pw.toml~"
+hash = "b0eaffb569310b4094be0c83d23c670aa6a1eb9e4c638c405738c8f712ba9f0b"
