@@ -9,6 +9,30 @@ file = "config/fabric-title-changer/settings.json~"
 hash = "38ffe29a4abcccddb5a6c33d431dac94ee003432c4f814d77d77deeddccd0e2a"
 
 [[files]]
+file = "config/footpaths.json5"
+hash = "2c1d9f56a17743a1f6d90989ba2d212bc637b47f148f1ac61386782af54d2955"
+
+[[files]]
+file = "config/midnightcontrols.json"
+hash = "22a79fee2bda2eb8efe54d7a7026f6115729e5af3ec32718d2739f31e49766bb"
+
+[[files]]
+file = "config/mobfilter.yaml"
+hash = "11c8cea86c10457f19a8b930e1d58ca25a84c5290374494e60498692c8c36bd9"
+
+[[files]]
+file = "config/spiceoffabric.hjson"
+hash = "2e0cc7350285ae92e4907510e992b6aff74cf8d9711b6bb43e7f0516c8bc33f6"
+
+[[files]]
+file = "config/stoneholm.json5"
+hash = "38dfd2d9bb5286298bd0fc9bb43782319e0c6f9519b890c31e4a554c32b15d84"
+
+[[files]]
+file = "config/textile_backup.json5"
+hash = "10bb16c73151edc6b6feb0a59e86eff811c584bdc5dc27a47c8a7ea47ac61900"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
@@ -16,6 +40,11 @@ metafile = true
 [[files]]
 file = "mods/amazing-chest.pw.toml"
 hash = "7c44e81b4d0aee0821cbf0b150bb74833406b870874a036c82e5bb360f44df33"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-fabric.pw.toml"
+hash = "9e474446aa2a6d7ebf62ea11d65c0ebaefe79de6ffa7d54986c7216be4acad13"
 metafile = true
 
 [[files]]
@@ -160,5 +189,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-horses.pw.toml"
-hash = "e34c867fd37e8ab1c4bae94c90cc4565b56ef896e17b82179f3321e0cf20ee87"
+hash = "440ddc7a293fa552dd675b6d9726bec310b5d5843d32e45bb8cf962e21b56d46"
 metafile = true
