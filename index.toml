@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric-title-changer/settings.json"
+hash = "f6f132eee40c9fb277e2cb70a8ee8a0a4ecf45ccf689ecbbed3c394a19ca34ee"
+
+[[files]]
+file = "config/fabric-title-changer/settings.json~"
+hash = "38ffe29a4abcccddb5a6c33d431dac94ee003432c4f814d77d77deeddccd0e2a"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
