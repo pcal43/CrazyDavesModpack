@@ -66,6 +66,11 @@ hash = "56fef35a9f0d99e2ae8d9e0e31661d614395d55602da23320985f416194b72c3"
 metafile = true
 
 [[files]]
+file = "mods/mctitlechanger.pw.toml"
+hash = "dfc7c06778a26d5b7e366ba52a8cc29b24cab99da7397140cfe5dc5411e00cd7"
+metafile = true
+
+[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "9f4c42266f8231c6ed4e8b61363d5b9e84de8e86a21ab44272e31b1baaa68d1d"
 metafile = true
