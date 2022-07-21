@@ -1,6 +1,6 @@
 name = "fabric-title-changer"
 filename = "fabric-title-changer-1.1.0+1.19.jar"
-side = "client"
+side = "both"
   
 [download]
 url = "https://pcal43.github.io/modpack/fabric-title-changer-1.1.0+1.19.jar"

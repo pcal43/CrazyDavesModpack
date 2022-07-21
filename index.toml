@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-title-changer.pw.toml"
-hash = "4606d9464ed568df9de180d02883b4f37afd34a2b4f9daa8effb5b07bd50bf61"
+hash = "00da00820855b15ffd755cfd755756253c7056bd1c1760f71a597006c0c12a15"
 metafile = true
 
 [[files]]
