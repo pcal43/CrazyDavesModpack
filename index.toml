@@ -26,6 +26,15 @@ hash = "9016821ee80045ed29e8fba7259faec44b45b3a42e7e502cb25309da5259d677"
 metafile = true
 
 [[files]]
+file = "mods/easy-auto-crafting.pw.toml"
+hash = "739b5cd1e3c8eb87babcc774648efd02eff49862f4e46b80c78318946d163e61"
+metafile = true
+
+[[files]]
+file = "mods/easy-auto-crafting.pw.toml~"
+hash = "60bbbab5a4325ded6bbe8e2229c5e0a12727b13c4d2c14b7aa4ccf8329f64660"
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "d476772028d7d681aadd6a06fb8484cbf8476389267f6fd53293a17af3460bce"
 metafile = true
