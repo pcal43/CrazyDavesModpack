@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
+metafile = true
+
+[[files]]
 file = "mods/amazing-chest.pw.toml"
 hash = "7c44e81b4d0aee0821cbf0b150bb74833406b870874a036c82e5bb360f44df33"
 metafile = true
@@ -26,6 +31,21 @@ hash = "9eaeb257cd8970aa2469222f31ceb984954092a6dcf6e7be28d7330e2ea54b10"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "922a1ed8d804fd6b2f6998d321a94f280f43d58de38ba80c1bf1c474f7e09253"
+metafile = true
+
+[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "9f4c42266f8231c6ed4e8b61363d5b9e84de8e86a21ab44272e31b1baaa68d1d"
 metafile = true
@@ -41,13 +61,43 @@ hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
+file = "mods/phosphor.pw.toml"
+hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+metafile = true
+
+[[files]]
+file = "mods/polaroidcamera.pw.toml"
+hash = "2a9d260548a28020b41f792f3417942a5262c716d4773bd8b12c3499c728a2a9"
+metafile = true
+
+[[files]]
 file = "mods/quicksort.pw.toml"
 hash = "d40cd4245b3fa940e2e4fe02299e7a255d31ca84bf9c7be5b238974f1897b6c5"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "28564fc02a8d66bba5a25709375440dafd03a481fa0723cff2709b43a5e4e6e8"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "7bfeba729248436bdd7ca5290b85d8020e8d483d318d8f58938462ab46263fa1"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-fabric.toml"
 hash = "7a7e1ed91bed3be5c1be1aecb60f94939e934e9a12a70b10b378cc0872e9f981"
+
+[[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "f238bd6ca43f8922cf522b00ea94728a192b9cf984167e6679839ddf227c70ab"
+metafile = true
+
+[[files]]
+file = "mods/villagers-follow-emeralds-fabric.pw.toml"
+hash = "eb2a4fb8de33fac9656f00be775d4797d5f7d7041ef174ae2fd4ad33bb14bf6a"
+metafile = true
 
 [[files]]
 file = "resourcepacks/better-horses.pw.toml"
