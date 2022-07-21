@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/unicorn-resource-pack.pw.toml"
-hash = "970eb59061681523c06aebb955184301574bbb9f53a823369bbc3ca03417ac62"
+hash = "cc4ccd21b0baca37d19198e4e1186f1b9ecb61a279e885b8d1dac6dbe7937923"
 metafile = true
 
 [[files]]
