@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://pcal43.github.io/unicorn-resource-pack/SnachmeesFixedHorses.zip"
 hash-format = "sha1"
-hash = "f32d559648998908bfffb23e52ee5d21cc5a6e8c"
+hash = "f76152aac4e31e8d5f524a8ec4b9bc14d5caad53"
 
 [option]
 optional = true
