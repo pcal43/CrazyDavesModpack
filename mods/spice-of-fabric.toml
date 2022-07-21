@@ -3,7 +3,7 @@ filename = "spiceoffabric-1.6.0+1.19+1.19.jar"
 side = "both"
 
 [download]
-url = "https://pcal43.github.io/modpack/spiceoffabric-1.6.0+1.19+1.19.jar"
+url = "https://pcal43.github.io/modpack/spiceoffabric-1.6.0+1.19.jar"
 hash-format = "sha1"
 hash = "dce0a274999d5d4c4062d82d72879a1aa292556f"
 
