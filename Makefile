@@ -20,6 +20,8 @@ server:
 	mkdir -p ${BUILD_DIR}
 	cd server && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-server-${VERSION}.mrpack
 
+
+# 'host' is the union of the client and server mods.  Used for local multiplayer.
 .PHONY: host
 host:
 	rm -rf host/mods/* host/resourcepacks/* host/config.*
