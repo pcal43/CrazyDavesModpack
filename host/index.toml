@@ -182,7 +182,3 @@ metafile = true
 file = "mods/villagers-follow-emeralds-fabric.pw.toml"
 hash = "eb2a4fb8de33fac9656f00be775d4797d5f7d7041ef174ae2fd4ad33bb14bf6a"
 metafile = true
-
-[[files]]
-file = "pack.toml~"
-hash = "119ed6e7f0fd22c21b09c49185f76020278b2b5d057b325193e8bf23d6e13b70"
