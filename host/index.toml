@@ -186,8 +186,3 @@ metafile = true
 [[files]]
 file = "pack.toml~"
 hash = "119ed6e7f0fd22c21b09c49185f76020278b2b5d057b325193e8bf23d6e13b70"
-
-[[files]]
-file = "resourcepacks/better-horses.pw.toml"
-hash = "e5dff9b9f6783ddff85c881c13d9c9d1e9a2587178b1006371ab990523778483"
-metafile = true
