@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/spice-of-fabric.pw.toml"
-hash = "60bbbab5a4325ded6bbe8e2229c5e0a12727b13c4d2c14b7aa4ccf8329f64660"
+hash = "41a43b4692dd830193b896db722711d963187afe3dc2bbcd108645ea845f27e6"
 metafile = true
 
 [[files]]
