@@ -44,11 +44,6 @@ hash = "9e474446aa2a6d7ebf62ea11d65c0ebaefe79de6ffa7d54986c7216be4acad13"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "53fa3438ef9e1e81193f46c36cffa7c410a933de0b6793224e99bad67cbab2e3"
 metafile = true
@@ -64,11 +59,6 @@ hash = "739b5cd1e3c8eb87babcc774648efd02eff49862f4e46b80c78318946d163e61"
 metafile = true
 
 [[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "d476772028d7d681aadd6a06fb8484cbf8476389267f6fd53293a17af3460bce"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9eaeb257cd8970aa2469222f31ceb984954092a6dcf6e7be28d7330e2ea54b10"
 metafile = true
@@ -79,33 +69,8 @@ hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
-file = "mods/fabric-title-changer.pw.toml"
-hash = "00da00820855b15ffd755cfd755756253c7056bd1c1760f71a597006c0c12a15"
-metafile = true
-
-[[files]]
-file = "mods/fpsdisplay.pw.toml"
-hash = "34ca63bb36311069f03833de201a92cd7d505ea08227f00a09f080787174e660"
-metafile = true
-
-[[files]]
-file = "mods/inventory-sorting.pw.toml"
-hash = "c24cdfd72b2bdfc43e9f7ed7f2cc2ab67ef4abfaaaf92f21ebfd373d5163b4c0"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
-metafile = true
-
-[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "922a1ed8d804fd6b2f6998d321a94f280f43d58de38ba80c1bf1c474f7e09253"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
 metafile = true
 
 [[files]]
@@ -114,28 +79,13 @@ hash = "56fef35a9f0d99e2ae8d9e0e31661d614395d55602da23320985f416194b72c3"
 metafile = true
 
 [[files]]
-file = "mods/midnightcontrols.pw.toml"
-hash = "9f4c42266f8231c6ed4e8b61363d5b9e84de8e86a21ab44272e31b1baaa68d1d"
-metafile = true
-
-[[files]]
 file = "mods/mobfilter.pw.toml"
 hash = "784c6d5df73a8d5d93ae624c681068127df4fadbe05aeeb30486cdfe874a838d"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ea59340e930874c307b1dd1d17dd068dc5598e1f1a01055de1f5cb433780a1ee"
-metafile = true
-
-[[files]]
-file = "mods/phosphor.pw.toml"
-hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
 
 [[files]]
@@ -151,16 +101,6 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "28564fc02a8d66bba5a25709375440dafd03a481fa0723cff2709b43a5e4e6e8"
-metafile = true
-
-[[files]]
-file = "mods/rightclickharvest.pw.toml"
-hash = "7bfeba729248436bdd7ca5290b85d8020e8d483d318d8f58938462ab46263fa1"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
 metafile = true
 
 [[files]]
