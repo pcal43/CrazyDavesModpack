@@ -18,8 +18,11 @@ server:
 
 .PHONY: host
 host:
-	cp -R server/* host/
-	cp -R client/* host/
+	rm -rf host/mods/* host/resourcepacks/* host/config.*
+	cp -R client/mods/* host/mods/
+	cp -R client/config/* host/config/
+	cp -R server/mods/* host/mods/
+	cp -R server/config/* host/config/
 	cd host && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-host.mrpack
 
 .PHONY: clean
