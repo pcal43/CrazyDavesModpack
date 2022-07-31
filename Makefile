@@ -8,3 +8,7 @@ install:
 .PHONY: client
 client:
 	cd client && packwiz modrinth export
+
+.PHONY: server
+server:
+	cd server && packwiz modrinth export
