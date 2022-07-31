@@ -39,11 +39,6 @@ hash = "7c44e81b4d0aee0821cbf0b150bb74833406b870874a036c82e5bb360f44df33"
 metafile = true
 
 [[files]]
-file = "mods/awesome-dungeon-fabric.pw.toml"
-hash = "9e474446aa2a6d7ebf62ea11d65c0ebaefe79de6ffa7d54986c7216be4acad13"
-metafile = true
-
-[[files]]
 file = "mods/cem.pw.toml"
 hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
 metafile = true
@@ -56,11 +51,6 @@ metafile = true
 [[files]]
 file = "mods/croptopia.pw.toml"
 hash = "9016821ee80045ed29e8fba7259faec44b45b3a42e7e502cb25309da5259d677"
-metafile = true
-
-[[files]]
-file = "mods/easy-auto-crafting.pw.toml"
-hash = "739b5cd1e3c8eb87babcc774648efd02eff49862f4e46b80c78318946d163e61"
 metafile = true
 
 [[files]]
@@ -109,18 +99,8 @@ hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
 metafile = true
 
 [[files]]
-file = "mods/library-ferret-fabric.pw.toml"
-hash = "56fef35a9f0d99e2ae8d9e0e31661d614395d55602da23320985f416194b72c3"
-metafile = true
-
-[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "9f4c42266f8231c6ed4e8b61363d5b9e84de8e86a21ab44272e31b1baaa68d1d"
-metafile = true
-
-[[files]]
-file = "mods/mobfilter.pw.toml"
-hash = "784c6d5df73a8d5d93ae624c681068127df4fadbe05aeeb30486cdfe874a838d"
 metafile = true
 
 [[files]]
@@ -144,16 +124,6 @@ hash = "2a9d260548a28020b41f792f3417942a5262c716d4773bd8b12c3499c728a2a9"
 metafile = true
 
 [[files]]
-file = "mods/quicksort.pw.toml"
-hash = "d40cd4245b3fa940e2e4fe02299e7a255d31ca84bf9c7be5b238974f1897b6c5"
-metafile = true
-
-[[files]]
-file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "28564fc02a8d66bba5a25709375440dafd03a481fa0723cff2709b43a5e4e6e8"
-metafile = true
-
-[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "7bfeba729248436bdd7ca5290b85d8020e8d483d318d8f58938462ab46263fa1"
 metafile = true
@@ -161,26 +131,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
-metafile = true
-
-[[files]]
-file = "mods/spice-of-fabric.pw.toml"
-hash = "60bbbab5a4325ded6bbe8e2229c5e0a12727b13c4d2c14b7aa4ccf8329f64660"
-metafile = true
-
-[[files]]
-file = "mods/stoneholm.pw.toml"
-hash = "a99056e0e39b3e1ad57294363b5bdf26f54bb92fe6a9b10c17583e359401ec5a"
-metafile = true
-
-[[files]]
-file = "mods/textile_backup.pw.toml"
-hash = "f238bd6ca43f8922cf522b00ea94728a192b9cf984167e6679839ddf227c70ab"
-metafile = true
-
-[[files]]
-file = "mods/villagers-follow-emeralds-fabric.pw.toml"
-hash = "eb2a4fb8de33fac9656f00be775d4797d5f7d7041ef174ae2fd4ad33bb14bf6a"
 metafile = true
 
 [[files]]
