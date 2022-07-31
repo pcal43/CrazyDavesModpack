@@ -13,7 +13,8 @@ client:
 
 .PHONY: server
 server:
-	cd server && packwiz modrinth export
+	mkdir -p ${BUILD_DIR}
+	cd server && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-server.mrpack
 
 .PHONY: clean
 clean:
