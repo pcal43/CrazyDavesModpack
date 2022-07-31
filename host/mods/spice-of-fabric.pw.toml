@@ -1,14 +1,13 @@
-name = "spice-of-fabric"
-filename = "spiceoffabric-1.6.0+1.19.jar"
+name = "Spice of Fabric"
+filename = "spiceoffabric-1.5.3+1.19.jar"
 side = "both"
 
 [download]
-url = "https://pcal43.github.io/modpack/spiceoffabric-1.6.0+1.19.jar"
+url = "https://cdn.modrinth.com/data/roxihOCb/versions/1.5.3+1.19/spiceoffabric-1.5.3%2B1.19.jar"
 hash-format = "sha1"
-hash = "dce0a274999d5d4c4062d82d72879a1aa292556f"
+hash = "ccce4443c00eaf44141afa23e28a09462106069c"
 
-
-[option]
-optional = false
-default = true
-description = "Waiting for mod author to bump to 1.19"
+[update]
+[update.modrinth]
+mod-id = "roxihOCb"
+version = "6rSYIuHz"
