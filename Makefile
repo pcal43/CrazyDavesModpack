@@ -16,6 +16,12 @@ server:
 	mkdir -p ${BUILD_DIR}
 	cd server && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-server.mrpack
 
+.PHONY: host
+host:
+	cp -R server/* host/
+	cp -R client/* host/
+	cd host && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-host.mrpack
+
 .PHONY: clean
 clean:
 	rm -rf ${BUILD_DIR}

@@ -1,4 +1,4 @@
-name = "CrazyDavesModpack-server"
+name = "CrazyDavesModpack-host"
 author = "pcal"
 version = "0.0.2"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0c8a312d7d5717b80cf6bc3e92a5f80fee8cba972d87a0582cc68663a88a5ad3"
+hash = "08b4f689a4924260a4324b90ab0d3eadac5d4f93116571c42a868567e668a9ad"
 
 [versions]
 fabric = "0.14.8"
