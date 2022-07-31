@@ -14,3 +14,11 @@ client:
 .PHONY: server
 server:
 	cd server && packwiz modrinth export
+
+.PHONY: clean
+clean:
+	rm -rf ${BUILD_DIR}
+
+.PHONY: clean-cache
+clean-cache:
+	rm -rf ${HOME}/Library/Caches/packwiz/cache
