@@ -13,12 +13,12 @@ install:
 .PHONY: client
 client:
 	mkdir -p ${BUILD_DIR}
-	cd client && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-client-${VERSION}.mrpack
+	cd client && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-${VERSION}-client.mrpack
 
 .PHONY: server
 server:
 	mkdir -p ${BUILD_DIR}
-	cd server && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-server-${VERSION}.mrpack
+	cd server && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-${VERSION}-server.mrpack
 
 
 # 'host' is the union of the client and server mods.  Used for local multiplayer.
@@ -30,7 +30,7 @@ host:
 	cp -R server/mods/* host/mods/
 	cp -R server/config/* host/config/
 	mkdir -p ${BUILD_DIR}
-	cd host && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-host-${VERSION}.mrpack
+	cd host && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-${VERSION}-host.mrpack
 
 .PHONY: clean
 clean:
