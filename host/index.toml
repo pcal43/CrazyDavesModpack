@@ -184,6 +184,10 @@ hash = "eb2a4fb8de33fac9656f00be775d4797d5f7d7041ef174ae2fd4ad33bb14bf6a"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "e5c265fd1a5b8a5aad4b6312ce09f555355cf10f80feb7b81aa3fbc916a4ae38"
+
+[[files]]
 file = "resourcepacks/better-horses.pw.toml"
 hash = "e5dff9b9f6783ddff85c881c13d9c9d1e9a2587178b1006371ab990523778483"
 metafile = true
