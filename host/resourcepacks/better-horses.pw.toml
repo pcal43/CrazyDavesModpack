@@ -1,0 +1,13 @@
+name = "better-horses"
+filename = "BetterHorses-0.0.2.zip"
+side = "both"
+
+[download]
+url = "https://pcal43.github.io/modpack/BetterHorses-0.0.2.zip"
+hash-format = "sha1"
+hash = "a0ba1b06b5689b53154a7b74aaf1ae9560cf1f4c"
+
+[option]
+optional = false
+default = true
+description = "Fix the horses"

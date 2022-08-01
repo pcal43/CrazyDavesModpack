@@ -1,6 +1,6 @@
 PATH := ${HOME}/go/bin/:$(PATH)
 BUILD_DIR = $(realpath .)/build
-VERSION = 0.0.2+1.19
+VERSION = 0.0.3+1.19
 
 .PHONY: all
 all: server client host
@@ -27,6 +27,7 @@ host:
 	rm -rf host/mods/* host/resourcepacks/* host/config.*
 	cp -R client/mods/* host/mods/
 	cp -R client/config/* host/config/
+	cp -R client/resourcepacks/* host/resourcepacks/
 	cp -R server/mods/* host/mods/
 	cp -R server/config/* host/config/
 	mkdir -p ${BUILD_DIR}

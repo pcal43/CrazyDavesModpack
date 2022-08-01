@@ -5,28 +5,8 @@ file = "config/fabric-title-changer/settings.json"
 hash = "f6f132eee40c9fb277e2cb70a8ee8a0a4ecf45ccf689ecbbed3c394a19ca34ee"
 
 [[files]]
-file = "config/footpaths.json5"
-hash = "2c1d9f56a17743a1f6d90989ba2d212bc637b47f148f1ac61386782af54d2955"
-
-[[files]]
 file = "config/midnightcontrols.json"
 hash = "22a79fee2bda2eb8efe54d7a7026f6115729e5af3ec32718d2739f31e49766bb"
-
-[[files]]
-file = "config/mobfilter.yaml"
-hash = "11c8cea86c10457f19a8b930e1d58ca25a84c5290374494e60498692c8c36bd9"
-
-[[files]]
-file = "config/spiceoffabric.hjson"
-hash = "2e0cc7350285ae92e4907510e992b6aff74cf8d9711b6bb43e7f0516c8bc33f6"
-
-[[files]]
-file = "config/stoneholm.json5"
-hash = "38dfd2d9bb5286298bd0fc9bb43782319e0c6f9519b890c31e4a554c32b15d84"
-
-[[files]]
-file = "config/textile_backup.json5"
-hash = "10bb16c73151edc6b6feb0a59e86eff811c584bdc5dc27a47c8a7ea47ac61900"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -132,6 +112,14 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "e5c265fd1a5b8a5aad4b6312ce09f555355cf10f80feb7b81aa3fbc916a4ae38"
+
+[[files]]
+file = "options.txt~"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resourcepacks/better-horses.pw.toml"
