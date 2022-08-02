@@ -54,4 +54,4 @@ clean-cache:
 
 .PHONY: release
 release: clean export
-	gh release create ${MOD_VERSION} ${BUILD_DIR}/*.mrpack
+	gh release create --notes '' ${RELEASE_VERSION} ${BUILD_DIR}/*.mrpack
