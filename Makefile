@@ -2,6 +2,7 @@ PATH := ${HOME}/go/bin/:$(PATH)
 BUILD_DIR = $(realpath .)/build
 MOD_VERSION = 0.0.4
 MC_VERSION = 1.19
+BUILD_DIR = $(realpath .)/build/$(MOD_VERSION)
 RELEASE_VERSION = $(MOD_VERSION)+$(MC_VERSION)
 
 .PHONY: all
@@ -50,3 +51,7 @@ install:
 .PHONY: clean-cache
 clean-cache:
 	rm -rf ${HOME}/Library/Caches/packwiz/cache
+
+.PHONY: release
+release: clean export
+	gh release create ${MOD_VERSION} ${BUILD_DIR}/*.mrpack
