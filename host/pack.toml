@@ -1,6 +1,6 @@
 name = "CrazyDavesModpack-host"
 author = "pcal"
-version = "0.0.3+1.19.1"
+version = "0.0.4+1.19"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "3dee0718d3b0736f27a4962856c68943b2269ffcd62e20074a078c473606caa2"
 
 [versions]
 fabric = "0.14.8"
-minecraft = "1.19.1"
+minecraft = "1.19"

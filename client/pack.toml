@@ -1,6 +1,6 @@
 name = "CrazyDavesModpack-client"
 author = "pcal"
-version = "0.0.4+1.19.1"
+version = "0.0.4+1.19"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "191aaef3e52c58823081270e47526cfb5a0d297bd59fd03a79dc939653891df2"
 
 [versions]
 fabric = "0.14.8"
-minecraft = "1.19.1"
+minecraft = "1.19"
