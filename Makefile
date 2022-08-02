@@ -1,6 +1,6 @@
 PATH := ${HOME}/go/bin/:$(PATH)
 BUILD_DIR = $(realpath .)/build
-MOD_VERSION = 0.0.3
+MOD_VERSION = 0.0.4
 MC_VERSION = 1.19
 RELEASE_VERSION = $(MOD_VERSION)+$(MC_VERSION)
 
@@ -31,7 +31,9 @@ host:
 	cp -R server/mods/* host/mods/
 	cp -R server/config/* host/config/
 	mkdir -p ${BUILD_DIR}
-	cd host && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-${RELEASE_VERSION}-host.mrpack
+	cd host && \
+        packwiz init -r --version ${RELEASE_VERSION} --name "CrazyDavesModpack-host" --author "pcal" --mc-version ${MC_VERSION} --fabric-latest --modloader fabric && \
+        packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-${RELEASE_VERSION}-host.mrpack
 
 .PHONY: update
 update:
