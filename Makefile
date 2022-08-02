@@ -1,6 +1,6 @@
 PATH := ${HOME}/go/bin/:$(PATH)
 BUILD_DIR = $(realpath .)/build
-MOD_VERSION = 0.0.3
+MOD_VERSION = 0.0.4
 MC_VERSION = 1.19
 RELEASE_VERSION = $(MOD_VERSION)+$(MC_VERSION)
 
