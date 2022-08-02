@@ -34,7 +34,7 @@ reinit:
 
 
 .PHONY: update
-update:
+update: reinit
 	cd client && packwiz update --all
 	cd server && packwiz update --all
 
