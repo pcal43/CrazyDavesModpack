@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "53fa3438ef9e1e81193f46c36cffa7c410a933de0b6793224e99bad67cbab2e3"
+hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
 
 [[files]]
@@ -65,12 +65,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d476772028d7d681aadd6a06fb8484cbf8476389267f6fd53293a17af3460bce"
+hash = "51949291a0f29beab1674ac3e5a6736946042b727ff7d911767f8e44fcd50a8a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9eaeb257cd8970aa2469222f31ceb984954092a6dcf6e7be28d7330e2ea54b10"
+hash = "0164a54948e8c8b4220f1b3f8a41a1c450050fe19e04256ed96e36f58db019d3"
 metafile = true
 
 [[files]]
@@ -95,12 +95,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
 metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "922a1ed8d804fd6b2f6998d321a94f280f43d58de38ba80c1bf1c474f7e09253"
+hash = "f8cff163666695abffd4d8bc543482c61a3584564891f73057cd426421b97c51"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "7bfeba729248436bdd7ca5290b85d8020e8d483d318d8f58938462ab46263fa1"
+hash = "b6258083a0e3458bdc3e0b2b859809a493500bdf57b78026a3714d33f3f6b6a3"
 metafile = true
 
 [[files]]
