@@ -1,1 +1,3 @@
+pauseOnLostFocus:false
 resourcePacks:["file/BetterHorses-0.0.2.zip", "vanilla"]
+

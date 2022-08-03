@@ -9,12 +9,20 @@ file = "config/footpaths.json5"
 hash = "2c1d9f56a17743a1f6d90989ba2d212bc637b47f148f1ac61386782af54d2955"
 
 [[files]]
+file = "config/iris.properties"
+hash = "cf3e1562433141cb03c5a89a06f9ce6291ef56e7342c0e3026f5194fa6db7cc4"
+
+[[files]]
 file = "config/midnightcontrols.json"
 hash = "22a79fee2bda2eb8efe54d7a7026f6115729e5af3ec32718d2739f31e49766bb"
 
 [[files]]
 file = "config/mobfilter.yaml"
 hash = "11c8cea86c10457f19a8b930e1d58ca25a84c5290374494e60498692c8c36bd9"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "cac7860a569ffeecc29deeeb6c1e18af72144d517c5a3c5f2eb234488b1304fb"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
@@ -199,9 +207,17 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e5c265fd1a5b8a5aad4b6312ce09f555355cf10f80feb7b81aa3fbc916a4ae38"
+hash = "18188a6fc000658a4a651f3c7fa7aee8a9f84f9b12d359ba6e03c89d2722362c"
 
 [[files]]
 file = "resourcepacks/better-horses.pw.toml"
 hash = "e5dff9b9f6783ddff85c881c13d9c9d1e9a2587178b1006371ab990523778483"
 metafile = true
+
+[[files]]
+file = "shaderpacks/BSL_v8.1.03.zip"
+hash = "0cada74e42123f6e5b348618d64e5d6627d2b63a5a8f05e9bfb13af764387b25"
+
+[[files]]
+file = "shaderpacks/BSL_v8.1.03.zip.txt"
+hash = "ab4d70b440983853e4aaa1911258e0d3e1d22b53faf1154053edb80f9637848a"
