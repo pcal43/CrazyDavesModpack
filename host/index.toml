@@ -29,6 +29,10 @@ file = "config/textile_backup.json5"
 hash = "10bb16c73151edc6b6feb0a59e86eff811c584bdc5dc27a47c8a7ea47ac61900"
 
 [[files]]
+file = "import-save.sh"
+hash = "35bcfaaca14b8284ba484a75492634ebf37643ecf9e46fa30cdc64c701272fb9"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
@@ -46,6 +50,11 @@ metafile = true
 [[files]]
 file = "mods/cem.pw.toml"
 hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "b46ae91063839b3aaa7a863f69586e00883a6c98b2959005eaff27a459aa5d82"
 metafile = true
 
 [[files]]
@@ -146,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/quicksort.pw.toml"
 hash = "d40cd4245b3fa940e2e4fe02299e7a255d31ca84bf9c7be5b238974f1897b6c5"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "c06375ab4cc09b2a4bf0d8fe16a23ea0584f857050d9e7a110958820ba001045"
 metafile = true
 
 [[files]]
