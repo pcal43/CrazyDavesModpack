@@ -18,7 +18,6 @@ export:
 	mkdir -p ${BUILD_DIR}
 	cd client && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-${RELEASE_VERSION}-client.mrpack
 	cd server && packwiz modrinth export --output ${BUILD_DIR}/CrazyDavesModpack-${RELEASE_VERSION}-server.mrpack
-	rm -rf host/mods/* host/resourcepacks/* host/config.*
 	cp -R client/mods/* host/mods/
 	cp -R client/config/* host/config/
 	cp -R client/resourcepacks/* host/resourcepacks/

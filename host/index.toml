@@ -158,6 +158,11 @@ hash = "d40cd4245b3fa940e2e4fe02299e7a255d31ca84bf9c7be5b238974f1897b6c5"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.pw.toml"
+hash = "2d69816297b4d6def759efeb690df17c4ff41a1182125c3d84edc659fd383ecc"
+metafile = true
+
+[[files]]
 file = "mods/replaymod.pw.toml~"
 hash = "2d69816297b4d6def759efeb690df17c4ff41a1182125c3d84edc659fd383ecc"
 

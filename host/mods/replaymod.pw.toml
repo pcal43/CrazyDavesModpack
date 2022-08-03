@@ -1,5 +1,5 @@
 name = "replaymod"
-filename = "fabric-title-changer-1.1.0+1.19.jar"
+filename = "replaymod-1.19-2.6.7.jar"
 side = "client"
   
 [download]
@@ -8,5 +8,5 @@ hash-format = "sha1"
 hash = "b1912229f977e2ea80a211839074839eead8cb10"
 
 [option]
-optional = false
+optional = true
 default = true
