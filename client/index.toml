@@ -109,10 +109,6 @@ hash = "2a9d260548a28020b41f792f3417942a5262c716d4773bd8b12c3499c728a2a9"
 metafile = true
 
 [[files]]
-file = "mods/replaymod.pw.toml~"
-hash = "2d69816297b4d6def759efeb690df17c4ff41a1182125c3d84edc659fd383ecc"
-
-[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "b6258083a0e3458bdc3e0b2b859809a493500bdf57b78026a3714d33f3f6b6a3"
 metafile = true
