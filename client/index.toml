@@ -9,6 +9,10 @@ file = "config/midnightcontrols.json"
 hash = "22a79fee2bda2eb8efe54d7a7026f6115729e5af3ec32718d2739f31e49766bb"
 
 [[files]]
+file = "iris.properties"
+hash = "4462cd57e26ddd727e2eb441923b24526ff48f605e45e5ef702678b7a5651bfb"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
@@ -131,3 +135,7 @@ hash = "18188a6fc000658a4a651f3c7fa7aee8a9f84f9b12d359ba6e03c89d2722362c"
 file = "resourcepacks/better-horses.pw.toml"
 hash = "e5dff9b9f6783ddff85c881c13d9c9d1e9a2587178b1006371ab990523778483"
 metafile = true
+
+[[files]]
+file = "sodium-options.json"
+hash = "cac7860a569ffeecc29deeeb6c1e18af72144d517c5a3c5f2eb234488b1304fb"
