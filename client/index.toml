@@ -141,9 +141,9 @@ hash = "e5dff9b9f6783ddff85c881c13d9c9d1e9a2587178b1006371ab990523778483"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.1.03.zip.txt"
-hash = "ab4d70b440983853e4aaa1911258e0d3e1d22b53faf1154053edb80f9637848a"
+file = "shaderpacks/BSL_v8.1.03.zip"
+hash = "0cada74e42123f6e5b348618d64e5d6627d2b63a5a8f05e9bfb13af764387b25"
 
 [[files]]
-file = "shaderpacks/bsl-shaders.pwd.toml"
-hash = "dcacf30c097e6e647a315d8d52c8e95a4719fa21be57734ea05fb5fd2c860aae"
+file = "shaderpacks/BSL_v8.1.03.zip.txt"
+hash = "ab4d70b440983853e4aaa1911258e0d3e1d22b53faf1154053edb80f9637848a"
