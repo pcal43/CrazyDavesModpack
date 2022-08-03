@@ -9,12 +9,20 @@ file = "config/footpaths.json5"
 hash = "2c1d9f56a17743a1f6d90989ba2d212bc637b47f148f1ac61386782af54d2955"
 
 [[files]]
+file = "config/iris.properties"
+hash = "4462cd57e26ddd727e2eb441923b24526ff48f605e45e5ef702678b7a5651bfb"
+
+[[files]]
 file = "config/midnightcontrols.json"
 hash = "22a79fee2bda2eb8efe54d7a7026f6115729e5af3ec32718d2739f31e49766bb"
 
 [[files]]
 file = "config/mobfilter.yaml"
 hash = "11c8cea86c10457f19a8b930e1d58ca25a84c5290374494e60498692c8c36bd9"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "cac7860a569ffeecc29deeeb6c1e18af72144d517c5a3c5f2eb234488b1304fb"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
