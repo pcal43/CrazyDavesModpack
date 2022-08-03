@@ -6,7 +6,7 @@ hash = "f6f132eee40c9fb277e2cb70a8ee8a0a4ecf45ccf689ecbbed3c394a19ca34ee"
 
 [[files]]
 file = "config/iris.properties"
-hash = "4462cd57e26ddd727e2eb441923b24526ff48f605e45e5ef702678b7a5651bfb"
+hash = "cf3e1562433141cb03c5a89a06f9ce6291ef56e7342c0e3026f5194fa6db7cc4"
 
 [[files]]
 file = "config/midnightcontrols.json"
