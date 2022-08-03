@@ -220,7 +220,7 @@ hash = "ab4d70b440983853e4aaa1911258e0d3e1d22b53faf1154053edb80f9637848a"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pwd.toml"
-hash = "ab4ffe247d2b744f7ad5093fbcf07923d3225d870945ca9301b2ebd270f126a6"
+hash = "a3ee664e4b80fdf5cca7211a6d3e49e55eb2ccc0bc7b0ee074e23af6d0768c9e"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pwd.toml~"
