@@ -8,5 +8,5 @@ hash-format = "sha1"
 hash = "700065336f6936f65bf288de6d5dee08abd803d0"
 
 [option]
-optional = true
+optional = false
 default = true
