@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "2d69816297b4d6def759efeb690df17c4ff41a1182125c3d84edc659fd383ecc"
+hash = "c06375ab4cc09b2a4bf0d8fe16a23ea0584f857050d9e7a110958820ba001045"
 metafile = true
 
 [[files]]
