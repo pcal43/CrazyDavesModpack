@@ -22,6 +22,12 @@ export:
 	cd host && packwiz modrinth export --output ${PACK_BUILD_DIR}/CrazyDavesModpack-${RELEASE_VERSION}-host.mrpack
 
 
+.PHONY: refresh
+refresh:
+	cd client && packwiz refresh
+	cd server && packwiz refresh
+	cd host && packwiz refresh
+
 .PHONY: reinit
 reinit:
 	cd client && packwiz init -r --version ${RELEASE_VERSION} --name "CrazyDavesModpack-client" --author "pcal" --mc-version ${MC_VERSION} --fabric-latest --modloader fabric
