@@ -10,17 +10,12 @@ RELEASE_VERSION = $(MOD_VERSION)+$(MC_VERSION)
 all: reinit export
 
 
-# 'host' is the union of the client and server mods.  Used for local multiplayer.
-.PHONY: host
-host:
-
 .PHONY: export
 export:
 	mkdir -p ${PACK_BUILD_DIR}
 	cd client && packwiz modrinth export --output ${PACK_BUILD_DIR}/CrazyDavesModpack-${RELEASE_VERSION}-client.mrpack
 	cd server && packwiz modrinth export --output ${PACK_BUILD_DIR}/CrazyDavesModpack-${RELEASE_VERSION}-server.mrpack
-	cd host && packwiz modrinth export --output ${PACK_BUILD_DIR}/CrazyDavesModpack-${RELEASE_VERSION}-host.mrpack
-
+	cd host   && packwiz modrinth export --output ${PACK_BUILD_DIR}/CrazyDavesModpack-${RELEASE_VERSION}-host.mrpack
 
 .PHONY: refresh
 refresh:
@@ -32,14 +27,14 @@ refresh:
 reinit:
 	cd client && packwiz init -r --version ${RELEASE_VERSION} --name "CrazyDavesModpack-client" --author "pcal" --mc-version ${MC_VERSION} --fabric-latest --modloader fabric
 	cd server && packwiz init -r --version ${RELEASE_VERSION} --name "CrazyDavesModpack-server" --author "pcal" --mc-version ${MC_VERSION} --fabric-latest --modloader fabric
-	cd host && packwiz init -r --version ${RELEASE_VERSION} --name "CrazyDavesModpack-host" --author "pcal" --mc-version ${MC_VERSION} --fabric-latest --modloader fabric
-
+	cd host   && packwiz init -r --version ${RELEASE_VERSION} --name "CrazyDavesModpack-host"   --author "pcal" --mc-version ${MC_VERSION} --fabric-latest --modloader fabric
 
 .PHONY: update
 update: reinit
 	cd client && packwiz update --all
 	cd server && packwiz update --all
 
+# 'host' is the union of the client and server mods.  Used for local multiplayer.
 .PHONY: host-merge
 host-merge:
 	cp -R client/mods/* host/mods/
