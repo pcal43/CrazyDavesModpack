@@ -1,0 +1,12 @@
+name = "BSL Shaders"
+filename = "/BSL_v8.1.03.zip"
+side = "both"
+
+[download]
+url = "https://pcal43.github.io/shaderpacks/BSL_v8.1.03.zip"
+hash-format = "sha1"
+hash = "700065336f6936f65bf288de6d5dee08abd803d0"
+
+[option]
+optional = true
+default = true
