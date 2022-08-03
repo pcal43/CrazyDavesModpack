@@ -19,11 +19,6 @@ export:
 	mkdir -p ${PACK_BUILD_DIR}
 	cd client && packwiz modrinth export --output ${PACK_BUILD_DIR}/CrazyDavesModpack-${RELEASE_VERSION}-client.mrpack
 	cd server && packwiz modrinth export --output ${PACK_BUILD_DIR}/CrazyDavesModpack-${RELEASE_VERSION}-server.mrpack
-	cp -R client/mods/* host/mods/
-	cp -R client/config/* host/config/
-	cp -R client/resourcepacks/* host/resourcepacks/
-	cp -R server/mods/* host/mods/
-	cp -R server/config/* host/config/
 	cd host && packwiz modrinth export --output ${PACK_BUILD_DIR}/CrazyDavesModpack-${RELEASE_VERSION}-host.mrpack
 
 
@@ -38,6 +33,15 @@ reinit:
 update: reinit
 	cd client && packwiz update --all
 	cd server && packwiz update --all
+
+.PHONY: host-merge
+host-merge:
+	cp -R client/mods/* host/mods/
+	cp -R client/config/* host/config/
+	cp -R client/resourcepacks/* host/resourcepacks/
+	cp -R client/shaderpacks/* host/shaderpacks/
+	cp -R server/mods/* host/mods/
+	cp -R server/config/* host/config/
 
 .PHONY: clean
 clean:

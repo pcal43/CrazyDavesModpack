@@ -139,3 +139,11 @@ hash = "18188a6fc000658a4a651f3c7fa7aee8a9f84f9b12d359ba6e03c89d2722362c"
 file = "resourcepacks/better-horses.pw.toml"
 hash = "e5dff9b9f6783ddff85c881c13d9c9d1e9a2587178b1006371ab990523778483"
 metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pwd.toml"
+hash = "ab4ffe247d2b744f7ad5093fbcf07923d3225d870945ca9301b2ebd270f126a6"
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pwd.toml~"
+hash = "72f43ed503fca71a79c71811aeb491a8ead657f9e87d4589cb83e6abc6c7836e"
