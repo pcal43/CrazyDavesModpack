@@ -71,6 +71,11 @@ hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
 
 [[files]]
+file = "mods/copper-hopper.pw.toml"
+hash = "ae6ab6903001f35d93af3fcbed6fe600b38993f885526a1f129a10e8400da793"
+metafile = true
+
+[[files]]
 file = "mods/croptopia.pw.toml"
 hash = "9016821ee80045ed29e8fba7259faec44b45b3a42e7e502cb25309da5259d677"
 metafile = true
