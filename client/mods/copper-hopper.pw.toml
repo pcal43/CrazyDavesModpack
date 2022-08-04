@@ -1,0 +1,13 @@
+name = "Copper Hopper"
+filename = "copperhopper-0.0.9+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mTI5Xg5F/versions/0.0.9+1.19/copperhopper-0.0.9%2B1.19.jar"
+hash-format = "sha1"
+hash = "ff7f33ca91b732380f5d6c0ece9931cf906d1cad"
+
+[update]
+[update.modrinth]
+mod-id = "mTI5Xg5F"
+version = "26BvqoY6"
