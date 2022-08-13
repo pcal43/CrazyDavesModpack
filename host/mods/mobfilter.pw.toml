@@ -1,13 +1,13 @@
 name = "Mob Filter"
-filename = "mobfilter-0.0.3+1.19.jar"
+filename = "mobfilter-0.0.4+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gRn1FzwR/versions/0.0.3+1.19/mobfilter-0.0.3%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/gRn1FzwR/versions/0.0.4+1.19.2/mobfilter-0.0.4%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "e7b01e5f50210c4664a698ed3138d7b7e5ef6c05"
+hash = "3b2887a8ad36f6646ee41ca3a3d9c04a119dff84"
 
 [update]
 [update.modrinth]
 mod-id = "gRn1FzwR"
-version = "7wISinJF"
+version = "e9bhoZYD"
