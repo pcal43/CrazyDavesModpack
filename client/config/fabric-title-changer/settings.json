@@ -2,7 +2,7 @@
   "windowTitle": {
     "overrideFullTitle": {
       "comment": "Set to ignore other settings and define a full pre-defined name.",
-      "value": "Minecraft 1.19 (%username%)"
+      "value": "Minecraft 1.19.2 (%username%)"
     }
   }
 }
