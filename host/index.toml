@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "18188a6fc000658a4a651f3c7fa7aee8a9f84f9b12d359ba6e03c89d2722362c"
+hash = "5bc884d1ac36b5dd8209220c2df519a5b0f55fa83db255bbc5eb1456e84065fc"
 
 [[files]]
 file = "resourcepacks/better-horses.pw.toml"

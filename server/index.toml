@@ -42,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/copper-hopper.pw.toml"
-hash = "ae6ab6903001f35d93af3fcbed6fe600b38993f885526a1f129a10e8400da793"
+hash = "714eaa3fdb33e8c8fc440c8bdc09e23282882416934a49ac0715b6a0afa7c61f"
 metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "9016821ee80045ed29e8fba7259faec44b45b3a42e7e502cb25309da5259d677"
+hash = "16b53da869d31a9c8c811775e8f091698e4a3bdb8265249391356592afd1d6f5"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0164a54948e8c8b4220f1b3f8a41a1c450050fe19e04256ed96e36f58db019d3"
+hash = "518ed22adb529e7273602bf0aa64118d987566a8df092d6d1a79a87397926a53"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "f8cff163666695abffd4d8bc543482c61a3584564891f73057cd426421b97c51"
+hash = "eef339d42cd3d7ae60ce236cbc8396a9941b89e8aa1ebb1fedb7c01f557425f0"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobfilter.pw.toml"
-hash = "784c6d5df73a8d5d93ae624c681068127df4fadbe05aeeb30486cdfe874a838d"
+hash = "856aa0f654de70442b51d23195cda015e81d6ce1ce8a5775fc656a41e5d24e71"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/quicksort.pw.toml"
-hash = "d40cd4245b3fa940e2e4fe02299e7a255d31ca84bf9c7be5b238974f1897b6c5"
+hash = "0952449fa1c31d03f3f23a108741e7e6531631fb632720497617e7817b09fe03"
 metafile = true
 
 [[files]]

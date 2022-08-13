@@ -43,12 +43,12 @@ metafile = true
 
 [[files]]
 file = "mods/copper-hopper.pw.toml"
-hash = "ae6ab6903001f35d93af3fcbed6fe600b38993f885526a1f129a10e8400da793"
+hash = "714eaa3fdb33e8c8fc440c8bdc09e23282882416934a49ac0715b6a0afa7c61f"
 metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "9016821ee80045ed29e8fba7259faec44b45b3a42e7e502cb25309da5259d677"
+hash = "16b53da869d31a9c8c811775e8f091698e4a3bdb8265249391356592afd1d6f5"
 metafile = true
 
 [[files]]
@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0164a54948e8c8b4220f1b3f8a41a1c450050fe19e04256ed96e36f58db019d3"
+hash = "518ed22adb529e7273602bf0aa64118d987566a8df092d6d1a79a87397926a53"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "f8cff163666695abffd4d8bc543482c61a3584564891f73057cd426421b97c51"
+hash = "eef339d42cd3d7ae60ce236cbc8396a9941b89e8aa1ebb1fedb7c01f557425f0"
 metafile = true
 
 [[files]]
@@ -103,12 +103,12 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "9f4c42266f8231c6ed4e8b61363d5b9e84de8e86a21ab44272e31b1baaa68d1d"
+hash = "d09cd1d0aedef9f4c6acceda635ba7c9d33e688d2cda51f299d9acca1156ea1a"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
+hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "b6258083a0e3458bdc3e0b2b859809a493500bdf57b78026a3714d33f3f6b6a3"
+hash = "a907107e410169c6bca9375be491dc625d900700a6b38f5f1205fde5e0309e94"
 metafile = true
 
 [[files]]
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "18188a6fc000658a4a651f3c7fa7aee8a9f84f9b12d359ba6e03c89d2722362c"
+hash = "bd0c367ef31b6b9106443337b78ce0d89144775b07b01137bd1f421a8062b989"
 
 [[files]]
 file = "resourcepacks/better-horses.pw.toml"
