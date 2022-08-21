@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric-title-changer/settings.json"
-hash = "f6f132eee40c9fb277e2cb70a8ee8a0a4ecf45ccf689ecbbed3c394a19ca34ee"
+hash = "66f2cda3e1fdeda715c78fb1b391972da0ab444dd369937b22a851d67c09ab1f"
 
 [[files]]
 file = "config/iris.properties"
@@ -33,7 +33,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough.pw.toml"
-hash = "b46ae91063839b3aaa7a863f69586e00883a6c98b2959005eaff27a459aa5d82"
+hash = "1a4c9d83b0709fd2f91814eb67f81e19bb1493315c42cb65efe911d0f34c5a13"
 metafile = true
 
 [[files]]
@@ -53,12 +53,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "51949291a0f29beab1674ac3e5a6736946042b727ff7d911767f8e44fcd50a8a"
+hash = "82b6f9f3fb89cce2de6facd3fc6e5692bf1c4d2aa77d385ae0207bf84a71f871"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "518ed22adb529e7273602bf0aa64118d987566a8df092d6d1a79a87397926a53"
+hash = "39cd67c3a2db03da10508144b40aa41310d2a81183b189bd8f7086f3f5b1d49d"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "eef339d42cd3d7ae60ce236cbc8396a9941b89e8aa1ebb1fedb7c01f557425f0"
+hash = "21c5ff2c70f953eaddf10d3ef09538d99da19c4cfe32aa251ef162b4d78c8160"
 metafile = true
 
 [[files]]
@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "ea59340e930874c307b1dd1d17dd068dc5598e1f1a01055de1f5cb433780a1ee"
+hash = "d2dbe33fa927b10398c5a1a42ca8a2f925a802b7a0bef4d1e76ab5ff54a25aba"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "a907107e410169c6bca9375be491dc625d900700a6b38f5f1205fde5e0309e94"
+hash = "5306d2e64e464ea85dad4f78dd760e858d2f24402bbac7c096334f18f5ff4253"
 metafile = true
 
 [[files]]
