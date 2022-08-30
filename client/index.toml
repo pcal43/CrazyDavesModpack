@@ -43,12 +43,12 @@ metafile = true
 
 [[files]]
 file = "mods/copper-hopper.pw.toml"
-hash = "714eaa3fdb33e8c8fc440c8bdc09e23282882416934a49ac0715b6a0afa7c61f"
+hash = "0167da83b8611084a77e7b63e10f117fa1ac193220d70d6fd3fa476aac310150"
 metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "16b53da869d31a9c8c811775e8f091698e4a3bdb8265249391356592afd1d6f5"
+hash = "27802187dfd9d08bf77e80732c1892ed76c641424e17cffed9effff1a474ca04"
 metafile = true
 
 [[files]]
@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
+hash = "d4dd336cc77340a6429082e8a6f848c9db459a77e4d5703c02beea8b2a016015"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
