@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/copper-hopper.pw.toml"
-hash = "0167da83b8611084a77e7b63e10f117fa1ac193220d70d6fd3fa476aac310150"
+hash = "ae6ab6903001f35d93af3fcbed6fe600b38993f885526a1f129a10e8400da793"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39cd67c3a2db03da10508144b40aa41310d2a81183b189bd8f7086f3f5b1d49d"
+hash = "0164a54948e8c8b4220f1b3f8a41a1c450050fe19e04256ed96e36f58db019d3"
 metafile = true
 
 [[files]]
@@ -72,17 +72,17 @@ metafile = true
 
 [[files]]
 file = "mods/library-ferret-fabric.pw.toml"
-hash = "56fef35a9f0d99e2ae8d9e0e31661d614395d55602da23320985f416194b72c3"
+hash = "03256078725506db219337baedec70e9d66f24b9774bdef1c8b16747db13a81d"
 metafile = true
 
 [[files]]
 file = "mods/mobfilter.pw.toml"
-hash = "03e8e2601ba6c337da30baf052c404fe3d538731591f8858b5ba33d80636bc30"
+hash = "784c6d5df73a8d5d93ae624c681068127df4fadbe05aeeb30486cdfe874a838d"
 metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "d2dbe33fa927b10398c5a1a42ca8a2f925a802b7a0bef4d1e76ab5ff54a25aba"
+hash = "ea59340e930874c307b1dd1d17dd068dc5598e1f1a01055de1f5cb433780a1ee"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/quicksort.pw.toml"
-hash = "0952449fa1c31d03f3f23a108741e7e6531631fb632720497617e7817b09fe03"
+hash = "d40cd4245b3fa940e2e4fe02299e7a255d31ca84bf9c7be5b238974f1897b6c5"
 metafile = true
 
 [[files]]
