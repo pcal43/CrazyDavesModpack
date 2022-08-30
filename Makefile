@@ -33,6 +33,7 @@ reinit:
 update: reinit
 	cd client && packwiz update --all
 	cd server && packwiz update --all
+	cd host && packwiz update --all
 
 # 'host' is the union of the client and server mods.  Used for local multiplayer.
 .PHONY: host-merge

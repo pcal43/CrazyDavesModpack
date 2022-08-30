@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "f8cff163666695abffd4d8bc543482c61a3584564891f73057cd426421b97c51"
+hash = "21c5ff2c70f953eaddf10d3ef09538d99da19c4cfe32aa251ef162b4d78c8160"
 metafile = true
 
 [[files]]
@@ -98,12 +98,12 @@ metafile = true
 
 [[files]]
 file = "mods/library-ferret-fabric.pw.toml"
-hash = "56fef35a9f0d99e2ae8d9e0e31661d614395d55602da23320985f416194b72c3"
+hash = "03256078725506db219337baedec70e9d66f24b9774bdef1c8b16747db13a81d"
 metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "9f4c42266f8231c6ed4e8b61363d5b9e84de8e86a21ab44272e31b1baaa68d1d"
+hash = "d09cd1d0aedef9f4c6acceda635ba7c9d33e688d2cda51f299d9acca1156ea1a"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "b6258083a0e3458bdc3e0b2b859809a493500bdf57b78026a3714d33f3f6b6a3"
+hash = "5306d2e64e464ea85dad4f78dd760e858d2f24402bbac7c096334f18f5ff4253"
 metafile = true
 
 [[files]]

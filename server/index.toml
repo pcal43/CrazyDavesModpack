@@ -62,17 +62,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "f8cff163666695abffd4d8bc543482c61a3584564891f73057cd426421b97c51"
+hash = "21c5ff2c70f953eaddf10d3ef09538d99da19c4cfe32aa251ef162b4d78c8160"
 metafile = true
 
 [[files]]
 file = "mods/library-ferret-fabric.pw.toml"
-hash = "56fef35a9f0d99e2ae8d9e0e31661d614395d55602da23320985f416194b72c3"
+hash = "03256078725506db219337baedec70e9d66f24b9774bdef1c8b16747db13a81d"
 metafile = true
 
 [[files]]
