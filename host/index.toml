@@ -33,10 +33,6 @@ file = "config/stoneholm.json5"
 hash = "38dfd2d9bb5286298bd0fc9bb43782319e0c6f9519b890c31e4a554c32b15d84"
 
 [[files]]
-file = "config/textile_backup.json5"
-hash = "10bb16c73151edc6b6feb0a59e86eff811c584bdc5dc27a47c8a7ea47ac61900"
-
-[[files]]
 file = "import-save.sh"
 hash = "35bcfaaca14b8284ba484a75492634ebf37643ecf9e46fa30cdc64c701272fb9"
 
