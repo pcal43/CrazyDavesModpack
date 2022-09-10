@@ -21,6 +21,18 @@ file = "config/mobfilter.yaml"
 hash = "11c8cea86c10457f19a8b930e1d58ca25a84c5290374494e60498692c8c36bd9"
 
 [[files]]
+file = "config/replaymod-rendersettings.json"
+hash = "029c5c00bead872f140468db00cdc51f6ba14e373f463d3cd282d8c9c5f68890"
+
+[[files]]
+file = "config/replaymod-screenshotsettings.json"
+hash = "cadcaa7112ee8c3a6618c8641c163afc9b8c52eddd6f768fa16a6e369fd607e3"
+
+[[files]]
+file = "config/replaymod.json"
+hash = "7b22aa57bdbfc7a319145a3d5946dbcf57dd1ed6a4d5a03909231d8daf1f5465"
+
+[[files]]
 file = "config/sodium-options.json"
 hash = "cac7860a569ffeecc29deeeb6c1e18af72144d517c5a3c5f2eb234488b1304fb"
 
