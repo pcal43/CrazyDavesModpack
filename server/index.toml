@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/gitback.pw.toml"
-hash = "43f734a6752d3113523071972eae7cf51ea7ed51ab6a7da3f7f029ae7187ee4e"
+hash = "4ee6ebe4361a97d5f0c2e625346fbedc5ea73104bf6d061d1350cf3f4ccfffef"
 metafile = true
 
 [[files]]
