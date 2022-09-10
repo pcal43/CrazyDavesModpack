@@ -111,6 +111,15 @@ hash = "34ca63bb36311069f03833de201a92cd7d505ea08227f00a09f080787174e660"
 metafile = true
 
 [[files]]
+file = "mods/gitback.pw.toml"
+hash = "4ee6ebe4361a97d5f0c2e625346fbedc5ea73104bf6d061d1350cf3f4ccfffef"
+metafile = true
+
+[[files]]
+file = "mods/gitback.pw.toml~"
+hash = "c06375ab4cc09b2a4bf0d8fe16a23ea0584f857050d9e7a110958820ba001045"
+
+[[files]]
 file = "mods/inventory-sorting.pw.toml"
 hash = "c24cdfd72b2bdfc43e9f7ed7f2cc2ab67ef4abfaaaf92f21ebfd373d5163b4c0"
 metafile = true
