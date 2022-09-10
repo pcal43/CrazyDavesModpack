@@ -1,13 +1,13 @@
 name = "Awesome Dungeon - Fabric"
-filename = "AwesomeDungeonFabric-1.19-2.0.11.jar"
+filename = "awesomedungeon-fabric-1.19.2-3.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "65791668d8415d1afb4034ba79e879b8b3a568a8"
+hash = "02e815c820424a14d069457d038772186ffa8c07"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3863319
+file-id = 3959438
 project-id = 530309
