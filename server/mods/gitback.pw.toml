@@ -1,0 +1,10 @@
+name = "Fast Backups"
+filename = "gitback-0.0.11+1.19.jar"
+side = "server"
+  
+[download]
+url = "https://github.com/pcal43/gitback/releases/download/0.0.11%2B1.19/gitback-0.0.11+1.19.jar"
+
+[option]
+optional = false
+default = true

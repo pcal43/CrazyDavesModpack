@@ -66,6 +66,15 @@ hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
+file = "mods/gitback.pw.toml"
+hash = "43f734a6752d3113523071972eae7cf51ea7ed51ab6a7da3f7f029ae7187ee4e"
+metafile = true
+
+[[files]]
+file = "mods/gitback.pw.toml~"
+hash = "c06375ab4cc09b2a4bf0d8fe16a23ea0584f857050d9e7a110958820ba001045"
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "21c5ff2c70f953eaddf10d3ef09538d99da19c4cfe32aa251ef162b4d78c8160"
 metafile = true
@@ -108,11 +117,6 @@ metafile = true
 [[files]]
 file = "mods/stoneholm.pw.toml"
 hash = "a99056e0e39b3e1ad57294363b5bdf26f54bb92fe6a9b10c17583e359401ec5a"
-metafile = true
-
-[[files]]
-file = "mods/textile_backup.pw.toml"
-hash = "f238bd6ca43f8922cf522b00ea94728a192b9cf984167e6679839ddf227c70ab"
 metafile = true
 
 [[files]]

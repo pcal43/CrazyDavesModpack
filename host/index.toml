@@ -201,11 +201,6 @@ hash = "a99056e0e39b3e1ad57294363b5bdf26f54bb92fe6a9b10c17583e359401ec5a"
 metafile = true
 
 [[files]]
-file = "mods/textile_backup.pw.toml"
-hash = "f238bd6ca43f8922cf522b00ea94728a192b9cf984167e6679839ddf227c70ab"
-metafile = true
-
-[[files]]
 file = "mods/villagers-follow-emeralds-fabric.pw.toml"
 hash = "eb2a4fb8de33fac9656f00be775d4797d5f7d7041ef174ae2fd4ad33bb14bf6a"
 metafile = true
