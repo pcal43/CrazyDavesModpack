@@ -33,10 +33,6 @@ file = "config/stoneholm.json5"
 hash = "38dfd2d9bb5286298bd0fc9bb43782319e0c6f9519b890c31e4a554c32b15d84"
 
 [[files]]
-file = "config/textile_backup.json5"
-hash = "10bb16c73151edc6b6feb0a59e86eff811c584bdc5dc27a47c8a7ea47ac61900"
-
-[[files]]
 file = "import-save.sh"
 hash = "35bcfaaca14b8284ba484a75492634ebf37643ecf9e46fa30cdc64c701272fb9"
 
@@ -47,12 +43,12 @@ metafile = true
 
 [[files]]
 file = "mods/amazing-chest.pw.toml"
-hash = "7c44e81b4d0aee0821cbf0b150bb74833406b870874a036c82e5bb360f44df33"
+hash = "da258998d440171b26cc6339f43e3141c830520f2ecd6a66206ccbe182f10e1c"
 metafile = true
 
 [[files]]
 file = "mods/awesome-dungeon-fabric.pw.toml"
-hash = "9e474446aa2a6d7ebf62ea11d65c0ebaefe79de6ffa7d54986c7216be4acad13"
+hash = "a679c03069a313c1c57c8b843b166d882da9dd9846d976ae73f7f64f20fab82f"
 metafile = true
 
 [[files]]
@@ -67,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -111,13 +107,22 @@ hash = "34ca63bb36311069f03833de201a92cd7d505ea08227f00a09f080787174e660"
 metafile = true
 
 [[files]]
+file = "mods/gitback.pw.toml"
+hash = "4ee6ebe4361a97d5f0c2e625346fbedc5ea73104bf6d061d1350cf3f4ccfffef"
+metafile = true
+
+[[files]]
+file = "mods/gitback.pw.toml~"
+hash = "c06375ab4cc09b2a4bf0d8fe16a23ea0584f857050d9e7a110958820ba001045"
+
+[[files]]
 file = "mods/inventory-sorting.pw.toml"
 hash = "c24cdfd72b2bdfc43e9f7ed7f2cc2ab67ef4abfaaaf92f21ebfd373d5163b4c0"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d4dd336cc77340a6429082e8a6f848c9db459a77e4d5703c02beea8b2a016015"
+hash = "59c8274b76d6b09e5cb16939ed8adbe8e2d38eadc85682125d6a9ede6653bcd2"
 metafile = true
 
 [[files]]
@@ -132,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/library-ferret-fabric.pw.toml"
-hash = "03256078725506db219337baedec70e9d66f24b9774bdef1c8b16747db13a81d"
+hash = "33ca89dcce37e7d8bce704a5bc7e9608fded19183893f76fd5305df503082abc"
 metafile = true
 
 [[files]]
@@ -198,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/stoneholm.pw.toml"
 hash = "a99056e0e39b3e1ad57294363b5bdf26f54bb92fe6a9b10c17583e359401ec5a"
-metafile = true
-
-[[files]]
-file = "mods/textile_backup.pw.toml"
-hash = "f238bd6ca43f8922cf522b00ea94728a192b9cf984167e6679839ddf227c70ab"
 metafile = true
 
 [[files]]
