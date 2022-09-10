@@ -62,11 +62,6 @@ hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
-file = "mods/gitback.pw.toml"
-hash = "4ee6ebe4361a97d5f0c2e625346fbedc5ea73104bf6d061d1350cf3f4ccfffef"
-metafile = true
-
-[[files]]
 file = "mods/gitback.pw.toml~"
 hash = "c06375ab4cc09b2a4bf0d8fe16a23ea0584f857050d9e7a110958820ba001045"
 
