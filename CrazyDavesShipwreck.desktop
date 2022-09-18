@@ -1,0 +1,7 @@
+# cp CrazyDavesShipwreck.desktop ~/.local/share/applications/
+
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=Crazy Dave's Shipwreck
+Exec=/home/dev/modpack/launch.sh
