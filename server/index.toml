@@ -62,6 +62,11 @@ hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "bca7693e6882c3ecdf0689ce94df0671ae683760916c95ad06319cd50a0fe7d1"
+metafile = true
+
+[[files]]
 file = "mods/gitback.pw.toml~"
 hash = "c06375ab4cc09b2a4bf0d8fe16a23ea0584f857050d9e7a110958820ba001045"
 
