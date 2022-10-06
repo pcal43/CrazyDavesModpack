@@ -47,23 +47,28 @@ hash = "27802187dfd9d08bf77e80732c1892ed76c641424e17cffed9effff1a474ca04"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "0f6f75208bdcecc74681a362732ffdef846c1a58a56d3900a6a42d7649d29893"
+metafile = true
+
+[[files]]
 file = "mods/easy-auto-crafting.pw.toml"
 hash = "739b5cd1e3c8eb87babcc774648efd02eff49862f4e46b80c78318946d163e61"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39cd67c3a2db03da10508144b40aa41310d2a81183b189bd8f7086f3f5b1d49d"
+hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
+hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
 metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "bca7693e6882c3ecdf0689ce94df0671ae683760916c95ad06319cd50a0fe7d1"
+hash = "2683da7807aa43a10d3cdaab23ac0b778ef370f72d4e9bb4b2415bd265d690ba"
 metafile = true
 
 [[files]]

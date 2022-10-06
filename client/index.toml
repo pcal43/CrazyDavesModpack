@@ -17,6 +17,18 @@ file = "config/sodium-options.json"
 hash = "cac7860a569ffeecc29deeeb6c1e18af72144d517c5a3c5f2eb234488b1304fb"
 
 [[files]]
+file = "config/usericons/LKC333.png"
+hash = "2e90fbd62f95b71200f8539ee593066a168a8dc9ce02fee0a28ee22be2a40664"
+
+[[files]]
+file = "config/usericons/RainbowDava828.png"
+hash = "4ab00f62bfa5a56d570c3de4f14260006794dc6f18026b3550b97479c34009cc"
+
+[[files]]
+file = "config/usericons/rebelpilot-icon.png"
+hash = "5e2d8c302780b4e11089e58e1db02054be96656e5e0f199078ff72f467dec35d"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
@@ -53,17 +65,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "82b6f9f3fb89cce2de6facd3fc6e5692bf1c4d2aa77d385ae0207bf84a71f871"
+hash = "af08de75e8df44bbfb72d18c628c7024db4f4020e7a5cf35a4730f9774b82905"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39cd67c3a2db03da10508144b40aa41310d2a81183b189bd8f7086f3f5b1d49d"
+hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
+hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
 metafile = true
 
 [[files]]
@@ -83,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "59c8274b76d6b09e5cb16939ed8adbe8e2d38eadc85682125d6a9ede6653bcd2"
+hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
 metafile = true
 
 [[files]]
@@ -103,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "d09cd1d0aedef9f4c6acceda635ba7c9d33e688d2cda51f299d9acca1156ea1a"
+hash = "1946f660ed8f0b6b4fa1680fbc14f30a0db503b09fac5ffd0635ecd9cfecf6d1"
 metafile = true
 
 [[files]]
