@@ -22,11 +22,6 @@ hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
 
 [[files]]
-file = "mods/amazing-chest.pw.toml"
-hash = "da258998d440171b26cc6339f43e3141c830520f2ecd6a66206ccbe182f10e1c"
-metafile = true
-
-[[files]]
 file = "mods/awesome-dungeon-fabric.pw.toml"
 hash = "a679c03069a313c1c57c8b843b166d882da9dd9846d976ae73f7f64f20fab82f"
 metafile = true
@@ -53,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-auto-crafting.pw.toml"
-hash = "739b5cd1e3c8eb87babcc774648efd02eff49862f4e46b80c78318946d163e61"
+hash = "617c999a2377d95ec90298feb5b7f31b3c1ed2a4ef52badfa8021630036fe0fc"
 metafile = true
 
 [[files]]
@@ -102,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/quicksort.pw.toml"
-hash = "0952449fa1c31d03f3f23a108741e7e6531631fb632720497617e7817b09fe03"
+hash = "10e30d0bfd48367939940b896d0116cd89d6e04a35c0d11a542e687237717462"
 metafile = true
 
 [[files]]

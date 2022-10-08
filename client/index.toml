@@ -34,11 +34,6 @@ hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
 
 [[files]]
-file = "mods/amazing-chest.pw.toml"
-hash = "da258998d440171b26cc6339f43e3141c830520f2ecd6a66206ccbe182f10e1c"
-metafile = true
-
-[[files]]
 file = "mods/cem.pw.toml"
 hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
 metafile = true

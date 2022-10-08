@@ -3,9 +3,9 @@ filename = "easy-auto-crafting-1.5+1.19.jar"
 side = "both"
 
 [download]
-url = "https://github.com/FakeDomi/EasyAutoCrafting/releases/download/1.5%2B1.19/easy-auto-crafting-1.5+1.19.jar"
+url = "https://github.com/FakeDomi/EasyAutoCrafting/releases/download/1.6%2B1.19/easy-auto-crafting-1.6+1.19.jar"
 hash-format = "sha1"
-hash = "5eac2b37091bf4a22086dfb43a021a0c83da595b"
+hash = "558ff87494063e4345425d4b2c25e38c486e9d9f"
 
 
 [option]

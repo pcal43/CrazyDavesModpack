@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/quicksort.pw.toml"
-hash = "0952449fa1c31d03f3f23a108741e7e6531631fb632720497617e7817b09fe03"
+hash = "10e30d0bfd48367939940b896d0116cd89d6e04a35c0d11a542e687237717462"
 metafile = true
 
 [[files]]
