@@ -134,6 +134,15 @@ hash = "2a9d260548a28020b41f792f3417942a5262c716d4773bd8b12c3499c728a2a9"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.pw.toml"
+hash = "738ec0a6e76ba30fd5ca95e8ca125bad0fc2807accdb57bc82cd09bf1150557d"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml~"
+hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "5306d2e64e464ea85dad4f78dd760e858d2f24402bbac7c096334f18f5ff4253"
 metafile = true

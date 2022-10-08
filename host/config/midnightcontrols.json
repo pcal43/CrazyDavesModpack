@@ -23,11 +23,11 @@
   "invertRightYAxis": false,
   "invertRightXAxis": false,
   "rotationSpeed": 40.0,
+  "yAxisRotationSpeed": 40.0,
   "mouseSpeed": 25.0,
-  "unfocusedInput": false,
+  "unfocusedInput": true,
   "virtualMouse": true,
   "virtualMouseSkin": "DEFAULT_LIGHT",
-  "controllerID": 0.0,
   "secondControllerID": -1.0,
   "controllerType": "DUALSHOCK",
   "mouseScreens": [
@@ -46,5 +46,8 @@
     1.0,
     1.0,
     1.0
-  ]
+  ],
+  "triggerFix": true,
+  "enableHints": false,
+  "commandKeybinds": []
 }
