@@ -14,7 +14,7 @@ hash = "cf3e1562433141cb03c5a89a06f9ce6291ef56e7342c0e3026f5194fa6db7cc4"
 
 [[files]]
 file = "config/midnightcontrols.json"
-hash = "22a79fee2bda2eb8efe54d7a7026f6115729e5af3ec32718d2739f31e49766bb"
+hash = "106577c6ee128cf6f1e781b3c94baf912c33fc63ebaa1b55eb558dcc5b51f71d"
 
 [[files]]
 file = "config/mobfilter.yaml"
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-auto-crafting.pw.toml"
-hash = "739b5cd1e3c8eb87babcc774648efd02eff49862f4e46b80c78318946d163e61"
+hash = "617c999a2377d95ec90298feb5b7f31b3c1ed2a4ef52badfa8021630036fe0fc"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "c06375ab4cc09b2a4bf0d8fe16a23ea0584f857050d9e7a110958820ba001045"
+hash = "738ec0a6e76ba30fd5ca95e8ca125bad0fc2807accdb57bc82cd09bf1150557d"
 metafile = true
 
 [[files]]
