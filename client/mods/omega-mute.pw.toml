@@ -1,0 +1,13 @@
+name = "Omega Mute"
+filename = "omegamute-fabric_1.19.2-2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2ots5RF5/versions/EOLGBdkQ/omegamute-fabric_1.19.2-2.7.jar"
+hash-format = "sha1"
+hash = "42c49dca55c887c68832dbbd0865285adb59affe"
+
+[update]
+[update.modrinth]
+mod-id = "2ots5RF5"
+version = "EOLGBdkQ"

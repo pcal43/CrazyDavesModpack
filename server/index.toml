@@ -22,6 +22,15 @@ hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
 
 [[files]]
+file = "mods/armor-stand-pcal.pw.toml"
+hash = "170e4ceae56bdc617fb6d11785db8937277eb047d70d385ce5ed2f7c5c8a4f09"
+metafile = true
+
+[[files]]
+file = "mods/armor-stand-pcal.pw.toml~"
+hash = "67fd3f626f14a2232c10f2d01de14497aef3d0fa010830d7335ead9ebe2a8c62"
+
+[[files]]
 file = "mods/awesome-dungeon-fabric.pw.toml"
 hash = "a679c03069a313c1c57c8b843b166d882da9dd9846d976ae73f7f64f20fab82f"
 metafile = true
@@ -43,32 +52,38 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "0f6f75208bdcecc74681a362732ffdef846c1a58a56d3900a6a42d7649d29893"
+hash = "b4af96515a0d2f506f605ec20a6d31c4f70f1229437395b021e3747b6f8a4c06"
+metafile = true
+
+[[files]]
+file = "mods/dyeallthethings.pw.toml"
+hash = "a969ca4d47c033f32bad208eadf3b349ccd0d08e14acfdf38dd55707e7358ad7"
 metafile = true
 
 [[files]]
 file = "mods/easy-auto-crafting.pw.toml"
-hash = "617c999a2377d95ec90298feb5b7f31b3c1ed2a4ef52badfa8021630036fe0fc"
+hash = "67fd3f626f14a2232c10f2d01de14497aef3d0fa010830d7335ead9ebe2a8c62"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
+hash = "1abae29ea8e25ff332f6dc40f6fb680cdf319896969155b3af5022cb344f257f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
+hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
 metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "2683da7807aa43a10d3cdaab23ac0b778ef370f72d4e9bb4b2415bd265d690ba"
+hash = "74346b2e626a63bed8f36a0db65045305304fa609455c6e4dcbae4756409b3a0"
 metafile = true
 
 [[files]]
-file = "mods/gitback.pw.toml~"
-hash = "c06375ab4cc09b2a4bf0d8fe16a23ea0584f857050d9e7a110958820ba001045"
+file = "mods/highspeed-rail.pw.toml"
+hash = "56f741964b2ab63f807341bedd2ab2916d0f331a6303bdad0d1cdd08bdd7e80e"
+metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
@@ -87,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "d2dbe33fa927b10398c5a1a42ca8a2f925a802b7a0bef4d1e76ab5ff54a25aba"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
@@ -98,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/quicksort.pw.toml"
 hash = "10e30d0bfd48367939940b896d0116cd89d6e04a35c0d11a542e687237717462"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "f96e00e41e1435059a65868e3e1cc71d8b83026fff28b7e8966cd8fdc8af3712"
 metafile = true
 
 [[files]]

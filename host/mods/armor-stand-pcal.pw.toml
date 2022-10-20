@@ -1,0 +1,14 @@
+name = "armor-stand-swap-pcal"
+filename = "armor-stand-swap-pcal-mc1.19.2-2.0.0+rev.8dd69d8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/pcal43/armor-stand-swap-fabric/releases/download/pcal-tweaks/armor-stand-swap-pcal-mc1.19.2-2.0.0+rev.8dd69d8.jar"
+hash-format = "sha1"
+hash = "84406f9fcfc64d164a46cb7482ccbce6b75169ce"
+
+
+[option]
+optional = false
+default = true
+

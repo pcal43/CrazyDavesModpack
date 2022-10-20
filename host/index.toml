@@ -21,6 +21,10 @@ file = "config/mobfilter.yaml"
 hash = "11c8cea86c10457f19a8b930e1d58ca25a84c5290374494e60498692c8c36bd9"
 
 [[files]]
+file = "config/omegamute/soundmap.txt"
+hash = "69ccae5182f00b737b371e9358ebbb92bca882b3df1ee2cbadff7bb989110597"
+
+[[files]]
 file = "config/replaymod-rendersettings.json"
 hash = "029c5c00bead872f140468db00cdc51f6ba14e373f463d3cd282d8c9c5f68890"
 
@@ -31,6 +35,10 @@ hash = "cadcaa7112ee8c3a6618c8641c163afc9b8c52eddd6f768fa16a6e369fd607e3"
 [[files]]
 file = "config/replaymod.json"
 hash = "7b22aa57bdbfc7a319145a3d5946dbcf57dd1ed6a4d5a03909231d8daf1f5465"
+
+[[files]]
+file = "config/rightclickharvest.json"
+hash = "9933aa4eca9506cb690bb6c6db2264b014f98048ed8aea555994fe9b754a9cd6"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -71,6 +79,20 @@ hash = "da258998d440171b26cc6339f43e3141c830520f2ecd6a66206ccbe182f10e1c"
 metafile = true
 
 [[files]]
+file = "mods/armor-stand-pcal.pw.toml"
+hash = "170e4ceae56bdc617fb6d11785db8937277eb047d70d385ce5ed2f7c5c8a4f09"
+metafile = true
+
+[[files]]
+file = "mods/armor-stand-pcal.pw.toml~"
+hash = "67fd3f626f14a2232c10f2d01de14497aef3d0fa010830d7335ead9ebe2a8c62"
+
+[[files]]
+file = "mods/auto-clicker-fabric.pw.toml"
+hash = "a626df296bf3ce45cc2b9620d5ad51c77c388855c1f24118665dae625a041ba3"
+metafile = true
+
+[[files]]
 file = "mods/awesome-dungeon-fabric.pw.toml"
 hash = "a679c03069a313c1c57c8b843b166d882da9dd9846d976ae73f7f64f20fab82f"
 metafile = true
@@ -91,6 +113,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "c6bc086f111ee90dd9534f0d2e28f62fc0039fc1e1c1f06ff5c3c17d0b24f728"
+metafile = true
+
+[[files]]
 file = "mods/copper-hopper.pw.toml"
 hash = "0167da83b8611084a77e7b63e10f117fa1ac193220d70d6fd3fa476aac310150"
 metafile = true
@@ -102,12 +129,17 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "0f6f75208bdcecc74681a362732ffdef846c1a58a56d3900a6a42d7649d29893"
+hash = "b4af96515a0d2f506f605ec20a6d31c4f70f1229437395b021e3747b6f8a4c06"
+metafile = true
+
+[[files]]
+file = "mods/dyeallthethings.pw.toml"
+hash = "a969ca4d47c033f32bad208eadf3b349ccd0d08e14acfdf38dd55707e7358ad7"
 metafile = true
 
 [[files]]
 file = "mods/easy-auto-crafting.pw.toml"
-hash = "617c999a2377d95ec90298feb5b7f31b3c1ed2a4ef52badfa8021630036fe0fc"
+hash = "67fd3f626f14a2232c10f2d01de14497aef3d0fa010830d7335ead9ebe2a8c62"
 metafile = true
 
 [[files]]
@@ -117,12 +149,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
+hash = "1abae29ea8e25ff332f6dc40f6fb680cdf319896969155b3af5022cb344f257f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
+hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
 metafile = true
 
 [[files]]
@@ -132,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "2683da7807aa43a10d3cdaab23ac0b778ef370f72d4e9bb4b2415bd265d690ba"
+hash = "74346b2e626a63bed8f36a0db65045305304fa609455c6e4dcbae4756409b3a0"
 metafile = true
 
 [[files]]
@@ -141,8 +173,9 @@ hash = "34ca63bb36311069f03833de201a92cd7d505ea08227f00a09f080787174e660"
 metafile = true
 
 [[files]]
-file = "mods/gitback.pw.toml~"
-hash = "c06375ab4cc09b2a4bf0d8fe16a23ea0584f857050d9e7a110958820ba001045"
+file = "mods/highspeed-rail.pw.toml"
+hash = "56f741964b2ab63f807341bedd2ab2916d0f331a6303bdad0d1cdd08bdd7e80e"
+metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
@@ -151,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
+hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
 metafile = true
 
 [[files]]
@@ -171,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "1946f660ed8f0b6b4fa1680fbc14f30a0db503b09fac5ffd0635ecd9cfecf6d1"
+hash = "a4c8aff2e60655106374092cd3acf8e448c878333bce4d70e1c12a1a3a628a8b"
 metafile = true
 
 [[files]]
@@ -185,8 +218,13 @@ hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
 metafile = true
 
 [[files]]
+file = "mods/omega-mute.pw.toml"
+hash = "a8fb71a53294815abe864c032bc1b614b9cc4656fdee96ad177f4ac56b5a23b6"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
-hash = "d2dbe33fa927b10398c5a1a42ca8a2f925a802b7a0bef4d1e76ab5ff54a25aba"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
@@ -206,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "738ec0a6e76ba30fd5ca95e8ca125bad0fc2807accdb57bc82cd09bf1150557d"
+hash = "f96e00e41e1435059a65868e3e1cc71d8b83026fff28b7e8966cd8fdc8af3712"
 metafile = true
 
 [[files]]
