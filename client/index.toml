@@ -122,6 +122,11 @@ hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
 metafile = true
 
 [[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "34229e600fb26341545e086a524e3584df903aac2b04001930bebee25a1ae8ac"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "21c5ff2c70f953eaddf10d3ef09538d99da19c4cfe32aa251ef162b4d78c8160"
 metafile = true
@@ -134,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/library-ferret-fabric.pw.toml"
 hash = "33ca89dcce37e7d8bce704a5bc7e9608fded19183893f76fd5305df503082abc"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
