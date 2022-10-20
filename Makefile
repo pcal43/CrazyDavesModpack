@@ -1,6 +1,6 @@
 PATH := ${HOME}/go/bin/:$(PATH)
 BUILD_DIR = $(realpath .)/build
-MOD_VERSION = 0.0.13
+MOD_VERSION = 0.0.15
 MC_VERSION = 1.19.2
 BUILD_DIR = $(realpath .)/build
 PACK_BUILD_DIR = $(BUILD_DIR)/$(MOD_VERSION)
@@ -30,7 +30,7 @@ reinit:
 	cd host   && packwiz init -r --version ${RELEASE_VERSION} --name "CrazyDavesModpack-host"   --author "pcal" --mc-version ${MC_VERSION} --fabric-latest --modloader fabric
 
 .PHONY: update
-update: reinit
+update: reinit host-merge
 	cd client && packwiz update --all
 	cd server && packwiz update --all
 	cd host && packwiz update --all

@@ -1,13 +1,13 @@
 name = "CrazyDavesModpack-server"
 author = "pcal"
-version = "0.0.12+1.19.2"
+version = "0.0.15+1.19.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a5673a1d1fbb888dab8a1b2c2ee7bd04f2bf127becfbf4682e425c2d5def5b33"
+hash = "4159bca105190d17a584c6769f9e3bf6c929c7affb3a27ece0682109dc88c25c"
 
 [versions]
-fabric = "0.14.9"
+fabric = "0.14.10"
 minecraft = "1.19.2"
