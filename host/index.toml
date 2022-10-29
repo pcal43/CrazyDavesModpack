@@ -84,10 +84,6 @@ hash = "170e4ceae56bdc617fb6d11785db8937277eb047d70d385ce5ed2f7c5c8a4f09"
 metafile = true
 
 [[files]]
-file = "mods/armor-stand-pcal.pw.toml~"
-hash = "67fd3f626f14a2232c10f2d01de14497aef3d0fa010830d7335ead9ebe2a8c62"
-
-[[files]]
 file = "mods/auto-clicker-fabric.pw.toml"
 hash = "a626df296bf3ce45cc2b9620d5ad51c77c388855c1f24118665dae625a041ba3"
 metafile = true
@@ -119,12 +115,12 @@ metafile = true
 
 [[files]]
 file = "mods/copper-hopper.pw.toml"
-hash = "0167da83b8611084a77e7b63e10f117fa1ac193220d70d6fd3fa476aac310150"
+hash = "21950f7046e9750a6714e8a3785f60acbbb6507792ed6486c9032402c90466e3"
 metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "27802187dfd9d08bf77e80732c1892ed76c641424e17cffed9effff1a474ca04"
+hash = "2235e4bb8d79afad4d2f11fba3b5f7321584e5a994a316b7ff8d556629d7dd69"
 metafile = true
 
 [[files]]
@@ -164,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "74346b2e626a63bed8f36a0db65045305304fa609455c6e4dcbae4756409b3a0"
+hash = "3e3d7f67321b7c1514f59f39e6f715baf08055da0252088ba7add5290dc445b9"
 metafile = true
 
 [[files]]
@@ -174,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/highspeed-rail.pw.toml"
-hash = "56f741964b2ab63f807341bedd2ab2916d0f331a6303bdad0d1cdd08bdd7e80e"
+hash = "94d685b28a01a26ca948acaa04b778aa0b0337eebaee08baed4def45e9d89777"
 metafile = true
 
 [[files]]
@@ -189,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "21c5ff2c70f953eaddf10d3ef09538d99da19c4cfe32aa251ef162b4d78c8160"
+hash = "dab1b9951ec4ae8702752293bda463f07db441a63a46525c8c8c342a5a982c5a"
 metafile = true
 
 [[files]]
@@ -204,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "a4c8aff2e60655106374092cd3acf8e448c878333bce4d70e1c12a1a3a628a8b"
+hash = "13cf5c8363c82bbd368b0cc7bc7a779bfabbee0a552471a976f41af58e6df1b6"
 metafile = true
 
 [[files]]
@@ -254,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "5306d2e64e464ea85dad4f78dd760e858d2f24402bbac7c096334f18f5ff4253"
+hash = "e14bf084e535dad715e03ef3a062c15c3b5480f44ae6e6bd9590a14d78cfe8c3"
 metafile = true
 
 [[files]]
