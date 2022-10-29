@@ -1,13 +1,13 @@
 name = "Fast Backups"
-filename = "fastback-0.7.1+1.19.2.jar"
+filename = "fastback-0.7.3+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZHKrK8Rp/versions/pY0OuVwP/fastback-0.7.1%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/ZHKrK8Rp/versions/gX9oxrLu/fastback-0.7.3%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "3309c6bf7250d91d6aa6ccb0603648b846c8d778"
+hash = "df326ff20aa01890673109246f04a30fbd832a75"
 
 [update]
 [update.modrinth]
 mod-id = "ZHKrK8Rp"
-version = "pY0OuVwP"
+version = "gX9oxrLu"
