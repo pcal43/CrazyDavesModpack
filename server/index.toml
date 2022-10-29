@@ -27,10 +27,6 @@ hash = "170e4ceae56bdc617fb6d11785db8937277eb047d70d385ce5ed2f7c5c8a4f09"
 metafile = true
 
 [[files]]
-file = "mods/armor-stand-pcal.pw.toml~"
-hash = "67fd3f626f14a2232c10f2d01de14497aef3d0fa010830d7335ead9ebe2a8c62"
-
-[[files]]
 file = "mods/awesome-dungeon-fabric.pw.toml"
 hash = "a679c03069a313c1c57c8b843b166d882da9dd9846d976ae73f7f64f20fab82f"
 metafile = true

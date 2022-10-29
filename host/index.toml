@@ -74,18 +74,9 @@ hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
 
 [[files]]
-file = "mods/amazing-chest.pw.toml"
-hash = "da258998d440171b26cc6339f43e3141c830520f2ecd6a66206ccbe182f10e1c"
-metafile = true
-
-[[files]]
 file = "mods/armor-stand-pcal.pw.toml"
 hash = "170e4ceae56bdc617fb6d11785db8937277eb047d70d385ce5ed2f7c5c8a4f09"
 metafile = true
-
-[[files]]
-file = "mods/armor-stand-pcal.pw.toml~"
-hash = "67fd3f626f14a2232c10f2d01de14497aef3d0fa010830d7335ead9ebe2a8c62"
 
 [[files]]
 file = "mods/auto-clicker-fabric.pw.toml"
