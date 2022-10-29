@@ -36,18 +36,28 @@ hash = "a679c03069a313c1c57c8b843b166d882da9dd9846d976ae73f7f64f20fab82f"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "96d0f0813bfee39c3a6371ccccde290b36dfbab7704a01f09d7628bd9b4fea7b"
+metafile = true
+
+[[files]]
 file = "mods/copper-hopper.pw.toml"
-hash = "0167da83b8611084a77e7b63e10f117fa1ac193220d70d6fd3fa476aac310150"
+hash = "21950f7046e9750a6714e8a3785f60acbbb6507792ed6486c9032402c90466e3"
 metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "27802187dfd9d08bf77e80732c1892ed76c641424e17cffed9effff1a474ca04"
+hash = "2235e4bb8d79afad4d2f11fba3b5f7321584e5a994a316b7ff8d556629d7dd69"
 metafile = true
 
 [[files]]
@@ -77,17 +87,17 @@ metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "74346b2e626a63bed8f36a0db65045305304fa609455c6e4dcbae4756409b3a0"
+hash = "3e3d7f67321b7c1514f59f39e6f715baf08055da0252088ba7add5290dc445b9"
 metafile = true
 
 [[files]]
 file = "mods/highspeed-rail.pw.toml"
-hash = "56f741964b2ab63f807341bedd2ab2916d0f331a6303bdad0d1cdd08bdd7e80e"
+hash = "94d685b28a01a26ca948acaa04b778aa0b0337eebaee08baed4def45e9d89777"
 metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "21c5ff2c70f953eaddf10d3ef09538d99da19c4cfe32aa251ef162b4d78c8160"
+hash = "dab1b9951ec4ae8702752293bda463f07db441a63a46525c8c8c342a5a982c5a"
 metafile = true
 
 [[files]]
