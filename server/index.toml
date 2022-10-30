@@ -27,27 +27,13 @@ hash = "170e4ceae56bdc617fb6d11785db8937277eb047d70d385ce5ed2f7c5c8a4f09"
 metafile = true
 
 [[files]]
-file = "mods/armor-stand-pcal.pw.toml~"
-hash = "67fd3f626f14a2232c10f2d01de14497aef3d0fa010830d7335ead9ebe2a8c62"
-
-[[files]]
 file = "mods/awesome-dungeon-fabric.pw.toml"
 hash = "a679c03069a313c1c57c8b843b166d882da9dd9846d976ae73f7f64f20fab82f"
 metafile = true
 
 [[files]]
-file = "mods/balm.pw.toml"
-hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
-metafile = true
-
-[[files]]
-file = "mods/cooking-for-blockheads.pw.toml"
-hash = "96d0f0813bfee39c3a6371ccccde290b36dfbab7704a01f09d7628bd9b4fea7b"
 metafile = true
 
 [[files]]
@@ -89,6 +75,10 @@ metafile = true
 file = "mods/fastback.pw.toml"
 hash = "3e3d7f67321b7c1514f59f39e6f715baf08055da0252088ba7add5290dc445b9"
 metafile = true
+
+[[files]]
+file = "mods/fastback.pw.toml~"
+hash = "0167da83b8611084a77e7b63e10f117fa1ac193220d70d6fd3fa476aac310150"
 
 [[files]]
 file = "mods/highspeed-rail.pw.toml"

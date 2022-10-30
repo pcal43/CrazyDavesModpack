@@ -1,3 +1,3 @@
 pauseOnLostFocus:false
-resourcePacks:["file/BetterHorses-0.0.2.zip", "vanilla"]
+resourcePacks:[ "vanilla", "file/BetterHorses-0.0.2.zip", "file/custom-splash-text" ]
 tutorialStep:none
