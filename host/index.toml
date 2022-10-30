@@ -164,6 +164,10 @@ hash = "3e3d7f67321b7c1514f59f39e6f715baf08055da0252088ba7add5290dc445b9"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml~"
+hash = "0167da83b8611084a77e7b63e10f117fa1ac193220d70d6fd3fa476aac310150"
+
+[[files]]
 file = "mods/fpsdisplay.pw.toml"
 hash = "34ca63bb36311069f03833de201a92cd7d505ea08227f00a09f080787174e660"
 metafile = true
@@ -281,6 +285,26 @@ hash = "5bc884d1ac36b5dd8209220c2df519a5b0f55fa83db255bbc5eb1456e84065fc"
 file = "resourcepacks/better-horses.pw.toml"
 hash = "e5dff9b9f6783ddff85c881c13d9c9d1e9a2587178b1006371ab990523778483"
 metafile = true
+
+[[files]]
+file = "resourcepacks/custom-splash-text/.DS_Store"
+hash = "827d98aada8b3e078a20aec06be8ba8c95fcbed58e1952f505b269117da1cabc"
+
+[[files]]
+file = "resourcepacks/custom-splash-text/assets/.DS_Store"
+hash = "b1673275e63c9ac193d02cc8dfedd5aa80cd1a13585e8aa3f4358bc0880ce4a7"
+
+[[files]]
+file = "resourcepacks/custom-splash-text/assets/minecraft/.DS_Store"
+hash = "995888b08df159060cb93ef1a39e7b6a47788593d4630ef60b3c09b13e2ea7b0"
+
+[[files]]
+file = "resourcepacks/custom-splash-text/assets/minecraft/texts/splashes.txt"
+hash = "f5ec0b2962ad4074eb551538e3f445ff25fc8803854d6b416367eebc6aab78f4"
+
+[[files]]
+file = "resourcepacks/custom-splash-text/pack.mcmeta"
+hash = "6e0860c23c52a6a12b0ff4b1fa830e49c35745d3717594ea42f06ab4565fd5d7"
 
 [[files]]
 file = "shaderpacks/BSL_v8.1.03.zip"
