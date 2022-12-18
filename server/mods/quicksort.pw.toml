@@ -1,13 +1,13 @@
 name = "Quicksort"
-filename = "quicksort-0.2.0+1.19.2.jar"
+filename = "quicksort-0.3.0+1.19.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/R7Xsgpzr/versions/rcCkxNQS/quicksort-0.2.0%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/R7Xsgpzr/versions/Ncasj7Rl/quicksort-0.3.0%2B1.19.3.jar"
 hash-format = "sha1"
-hash = "c5e3d937a846ad7f5462a84d344fc4428c37013b"
+hash = "57ab2dfc9dc54e5ffa6cc63d5c22883512bd6536"
 
 [update]
 [update.modrinth]
 mod-id = "R7Xsgpzr"
-version = "rcCkxNQS"
+version = "Ncasj7Rl"

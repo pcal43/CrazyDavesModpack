@@ -33,12 +33,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
 
 [[files]]
 file = "mods/copper-hopper.pw.toml"
-hash = "21950f7046e9750a6714e8a3785f60acbbb6507792ed6486c9032402c90466e3"
+hash = "761bb52d61149609ef325e506308c2073c5b01a97075be60fe5a016a1f55647f"
 metafile = true
 
 [[files]]
@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/dyeallthethings.pw.toml"
-hash = "a969ca4d47c033f32bad208eadf3b349ccd0d08e14acfdf38dd55707e7358ad7"
+hash = "842f7399c42f316b41d5f6fb09bb7697939e6b324dc2157a63249421d6e1de20"
 metafile = true
 
 [[files]]
@@ -63,31 +63,27 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1abae29ea8e25ff332f6dc40f6fb680cdf319896969155b3af5022cb344f257f"
+hash = "20c94ff9b7c0e93709d2c61f51d92bed4c5f69e9e4e43823a6d63a1e77186566"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "3e3d7f67321b7c1514f59f39e6f715baf08055da0252088ba7add5290dc445b9"
+hash = "0590783c7fa29c6022a42ea5612b8fc2ca9cb1c1a1442f5b44df84ab01f95110"
 metafile = true
 
 [[files]]
-file = "mods/fastback.pw.toml~"
-hash = "0167da83b8611084a77e7b63e10f117fa1ac193220d70d6fd3fa476aac310150"
-
-[[files]]
 file = "mods/highspeed-rail.pw.toml"
-hash = "94d685b28a01a26ca948acaa04b778aa0b0337eebaee08baed4def45e9d89777"
+hash = "d25156861f7a480b1a81a2dc27a064911e1400256a5cff01e05a7e3983cad6b7"
 metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "dab1b9951ec4ae8702752293bda463f07db441a63a46525c8c8c342a5a982c5a"
+hash = "5b905e5ae037d35b06c61df09468901acd2dbe7b7fb9070dbd0d59194259ae05"
 metafile = true
 
 [[files]]
@@ -97,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobfilter.pw.toml"
-hash = "03e8e2601ba6c337da30baf052c404fe3d538731591f8858b5ba33d80636bc30"
+hash = "5835a2618638d2a268ff25da9f3dc41ce18307e4b78b712454a904104662a7ac"
 metafile = true
 
 [[files]]
@@ -112,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/quicksort.pw.toml"
-hash = "10e30d0bfd48367939940b896d0116cd89d6e04a35c0d11a542e687237717462"
+hash = "454a450ccd153ad42122ddc04c3e85429abedc05b00a18c0c5efbb109a125d30"
 metafile = true
 
 [[files]]
@@ -127,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/spice-of-fabric.pw.toml"
-hash = "41a43b4692dd830193b896db722711d963187afe3dc2bbcd108645ea845f27e6"
+hash = "005880ba8640cd71d1d2fb33f4e4d41d81460a2aecbae2b383bd10a17923f73d"
 metafile = true
 
 [[files]]
